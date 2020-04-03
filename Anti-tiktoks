@@ -1,54 +1,53 @@
 !抖音
-127.0.0.1 log.snssdk.com
-127.0.0.1 xlog.snssdk.com
-127.0.0.1 i.snssdk.com
-127.0.0.1 aweme.snssdk.com
-127.0.0.1 lf.snssdk.com
-127.0.0.1 is.snssdk.com
-127.0.0.1 api.amemv.com
-127.0.0.1 is.snssdk.com
-127.0.0.1 mon.snssdk.com
-127.0.0.1 effect.snssdk.com
-127.0.0.1 hotsoon.snssdk.com
-127.0.0.1 dm.toutiao.com
-127.0.0.1 iu.snssdk.com
+||log.snssdk.com
+||xlog.snssdk.com
+||i.snssdk.com
+||aweme.snssdk.com
+||lf.snssdk.com
+||is.snssdk.com
+||api.amemv.com
+||is.snssdk.com
+||mon.snssdk.com
+||effect.snssdk.com
+||hotsoon.snssdk.com
+||dm.toutiao.com
+||iu.snssdk.com
 !快手
-127.0.0.1 kuaishou.com
-127.0.0.1 gifshow.com
-127.0.0.1 ksapisrv.com
-127.0.0.1 ksyun.com
-127.0.0.1 live.xycdn.com
-127.0.0.1 danuoyi.alicdn.com
-127.0.0.1 yximgs.com
+||kuaishou.com
+||gifshow.com
+||ksapisrv.com
+||ksyun.com
+||live.xycdn.com
+||danuoyi.alicdn.com
+||yximgs.com
 !皮皮虾
-127.0.0.1 ixigua.com
-127.0.0.1 adash.man.aliyuncs.com
-127.0.0.1 alog.umeng.com
-127.0.0.1 v3-ppx.ixigua.com
-127.0.0.1 mon.snssdk.com
-127.0.0.1 p9-ppx.bytecdn.com
-127.0.0.1 p3.pstatp.com
-127.0.0.1 
+||ixigua.com
+||adash.man.aliyuncs.com
+||alog.umeng.com
+||v3-ppx.ixigua.com
+||mon.snssdk.com
+||p9-ppx.bytecdn.com
+||p3.pstatp.com
+||
 !歪歪
-127.0.0.1 mlog.hiido.com
-127.0.0.1 downhdlogo.yy.com
-127.0.0.1 yy.com
-127.0.0.1 ylog.hiido.com
-127.0.0.1 httpdns.gslb.yy.com
-127.0.0.1 log.sysop.duowan.com
-127.0.0.1 dataaq.yy.com
+||mlog.hiido.com
+||downhdlogo.yy.com
+||yy.com
+||ylog.hiido.com
+||httpdns.gslb.yy.com
+||log.sysop.duowan.com
+||dataaq.yy.com
 126.0.0.1 skd-open-phone.getui.com
 !今日头条
-127.0.0.1 ib.snssdk.com
-127.0.0.1 open.nssdk.com
-127.0.0.1 apilocate.amap.com
+||ib.snssdk.com
+||open.nssdk.com
+||apilocate.amap.com
 !虎牙
-127.0.0.1 huya.com
-127.0.0.1 bd.flv.huya.com
-127.0.0.1 al.p2p.huya.com
-127.0.0.1 udblog.huya.com
-127.0.0.1 statwup.huya.com
-127.0.0.1 msstatic.com
+||huya.com
+||bd.flv.huya.com
+||al.p2p.huya.com
+||udblog.huya.com
+||statwup.huya.com
+||msstatic.com
 !
-127.0.0.1 
-
+||
