@@ -5,6 +5,8 @@
 127.0.0.1 site.baidu.com
 127.0.0.1 shoujiweishi.baidu.com
 127.0.0.1 v.baidu.com
+
+!国内狗屎公司
 ||sogou.com^
 ||baike.com^
 ||vmall.com^
@@ -34,7 +36,11 @@
 ||yidianzixun.com^
 ||duote.com^
 ||4399.com
+||sina.com.cn^
+||weibo.com^
 ||
+!国内狗屎公司End
+
 !小说网站
 ||qidian.com^
 ||chuangshi.qq.com
@@ -166,8 +172,8 @@
 ||paipai.fm^
 ||1358.tv^
 ||zongcaixsw.com^
-
 !小说网站END 百度前19页
+
 !相亲网站
 ||zhenai.com^
 ||11yinyuan.com^
@@ -188,3 +194,5 @@
 ||025.com^
 ||
 !相亲网站END
+
+
