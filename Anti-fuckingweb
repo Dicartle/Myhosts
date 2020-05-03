@@ -6,13 +6,12 @@
 127.0.0.1 shoujiweishi.baidu.com
 127.0.0.1 v.baidu.com
 
-!国内狗屎公司
+!国内狗屎网站和公司
 ||sogou.com^
 ||baike.com^
 ||vmall.com^
 ||huawei.cn^
 ||huawei.com^
-||t.cn^
 ||downcc.com^
 ||duba.net^
 ||guanjia.qq.com^
@@ -36,10 +35,10 @@
 ||yidianzixun.com^
 ||duote.com^
 ||4399.com
-||sina.com.cn^
-||weibo.com^
 ||
-!国内狗屎公司End
+||
+||
+!国内狗屎网站和公司End
 
 !小说网站
 ||qidian.com^
