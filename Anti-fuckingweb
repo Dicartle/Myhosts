@@ -7,191 +7,189 @@
 0.0.0.0 v.baidu.com
 
 !国内狗屎网站和公司
-0.0.0.0 sogou.com
-0.0.0.0 baike.com
-0.0.0.0 vmall.com
-0.0.0.0 huawei.cn
-0.0.0.0 huawei.com
-0.0.0.0 downcc.com
-0.0.0.0 duba.net
-0.0.0.0 guanjia.qq.com
-0.0.0.0 kankan.com
-0.0.0.0 rising.com.cn
-0.0.0.0 rising.cn
-0.0.0.0 7hao123.com
-0.0.0.0 duba.com
-0.0.0.0 ijinshan.com
-0.0.0.0 hao.360.com
-0.0.0.0 hao123.com
-0.0.0.0 hao123.cn
-0.0.0.0 2345.com
-0.0.0.0 2345daohang.com
-0.0.0.0 2345.cc
-0.0.0.0 360.cn
-0.0.0.0 so.com
-0.0.0.0 ijinshan.com
-0.0.0.0 m.qq.com
-0.0.0.0 haiwainet.cn
-0.0.0.0 yidianzixun.com
-0.0.0.0 duote.com
-0.0.0.0 4399.com
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
+||sogou.com^
+||baike.com^
+||vmall.com^
+||huawei.cn^
+||huawei.com^
+||downcc.com^
+||duba.net^
+||guanjia.qq.com^
+||kankan.com^
+||rising.com.cn^
+||rising.cn^
+||7hao123.com^
+||duba.com^
+||ijinshan.com^
+||hao.360.com^
+||hao123.com^
+||hao123.cn^
+||2345.com^
+||2345daohang.com^
+||2345.cc
+||360.cn^
+||so.com^
+||ijinshan.com^
+||m.qq.com^
+||haiwainet.cn^
+||yidianzixun.com^
+||duote.com^
+||4399.com^
+
 !国内狗屎网站和公司End
 
 !小说网站
-0.0.0.0 qidian.com
-0.0.0.0 chuangshi.qq.com
-0.0.0.0 zongheng.com
-0.0.0.0 jjwxc.net
-0.0.0.0 17k.com
-0.0.0.0 xxsy.net
-0.0.0.0 readnovel.com
-0.0.0.0 17k.com
-0.0.0.0 pcwap.con
-0.0.0.0 sfacg.com
-0.0.0.0 km.com
-0.0.0.0 yc.ifeng.com
-0.0.0.0 xs8.cn
-0.0.0.0 wanbenxiaoshuo.com
-0.0.0.0 shuhai.com
-0.0.0.0 imengxiang.cn
-0.0.0.0 kanshu.com
-0.0.0.0 ddshu.net
-0.0.0.0 synkeyu.com
-0.0.0.0 7xxs.net
-0.0.0.0 dushu.baidu.com
-0.0.0.0 quanshuwang
-0.0.0.0 jingyu.com
-0.0.0.0 tsxsw.com
-0.0.0.0 01xs.org
-0.0.0.0 yamibo.com
-0.0.0.0 9awx.com
-0.0.0.0 hongxiu.com
-0.0.0.0 574aw.com
-0.0.0.0 guanfang123.com
-0.0.0.0 xs4.cc
-0.0.0.0 hjsm.tom.com
-0.0.0.0 tadu.com
-0.0.0.0 zuopibj.com
-0.0.0.0 quanben.co
-0.0.0.0 le77.com
-0.0.0.0 xundy.com
-0.0.0.0 jjwxc.net
-0.0.0.0 99zw.cn
-0.0.0.0 555x.org
-0.0.0.0 qb5.tw
-0.0.0.0 chashu.cc
-0.0.0.0 vipreading.com
-0.0.0.0 rou16.com
-0.0.0.0 66liu.com
-0.0.0.0 ebtang.com
-0.0.0.0 yuetutu.com
-0.0.0.0 xzread.com
-0.0.0.0 77xs.org
-0.0.0.0 yueloo.com
-0.0.0.0 lzlzw.com
-0.0.0.0 guxs.net
-0.0.0.0 motie.com
-0.0.0.0 xiaoshuo.uc.cn
-0.0.0.0 ireader.com.cn
-0.0.0.0 4xiaoshuo.com
-0.0.0.0 web655.com
-0.0.0.0 123novel.com
-0.0.0.0 asxs.com
-0.0.0.0 ybdu.cc
-0.0.0.0 eafei.com
-0.0.0.0 kanunu8.com
-0.0.0.0 qiuxiaoshuo
-0.0.0.0 easou.com
-0.0.0.0 shulinw.com
-0.0.0.0 aoyuge.com
-0.0.0.0 k6uk.com
-0.0.0.0 xzyyhl.com
-0.0.0.0 yqxs.net
-0.0.0.0 mianfeixiaoshuoyueduwang.com
-0.0.0.0 wuxia.name
-0.0.0.0 inbook.net
-0.0.0.0 chenxitxt.com
-0.0.0.0 52xs.com.cn
-0.0.0.0 wmtxt.com
-0.0.0.0 00xs.com
-0.0.0.0 ctbook.cn
-0.0.0.0 118jie.com
-0.0.0.0 hezibook.com
-0.0.0.0 dreamersall.com
-0.0.0.0 hcxsw.com
-0.0.0.0 tlxsw.com
-0.0.0.0 mingzhuxiaoshuo.com
-0.0.0.0 eshu.org
-0.0.0.0 xiashu.cc
-0.0.0.0 vodtw.com
-0.0.0.0 qihuan.net.cn
-0.0.0.0 qxs.la
-0.0.0.0 youdubook.com
-0.0.0.0 bao61.com
-0.0.0.0 dwxs.net
-0.0.0.0 lol123.net
-0.0.0.0 bjcan.com
-0.0.0.0 bookso.net
-0.0.0.0 31xs.org
-0.0.0.0 hrxs8.net
-0.0.0.0 hszw.net
-0.0.0.0 yuncheng.com
-0.0.0.0 xiangcynxsw.com
-0.0.0.0 37xs.net
-0.0.0.0 wodugu.com
-0.0.0.0 76xs.com
-0.0.0.0 23xs.me
-0.0.0.0 xs52.org
-0.0.0.0 qbxs8.net
-0.0.0.0 mingqingxiaoshuo.com
-0.0.0.0 xbquge.com
-0.0.0.0 ihuaben.com
-0.0.0.0 dolphin-books.com.cn
-0.0.0.0 qingkan520.com
-0.0.0.0 8lwx.com
-0.0.0.0 xs5200.com
-0.0.0.0 ygread.com
-0.0.0.0 heiyan.com
-0.0.0.0 kanshutang.net
-0.0.0.0 chinawuxi.net
-0.0.0.0 147xiaoshuo.com
-0.0.0.0 sj131.cn
-0.0.0.0 zxwda.com
-0.0.0.0 fmxxs.com
-0.0.0.0 zhuangjji.cc
-0.0.0.0 wangshugu.com
-0.0.0.0 555b.net
-0.0.0.0 feilu.cc
-0.0.0.0 downpk.com
-0.0.0.0 mianhuatang520.com
-0.0.0.0 29ks.com
-0.0.0.0 paipai.fm
-0.0.0.0 1358.tv
-0.0.0.0 zongcaixsw.com
+||qidian.com^
+||chuangshi.qq.com^
+||zongheng.com^
+||jjwxc.net^
+||17k.com^
+||xxsy.net^
+||readnovel.com^
+||17k.com^
+||pcwap.con^
+||sfacg.com^
+||km.com^
+||yc.ifeng.com^
+||xs8.cn^
+||wanbenxiaoshuo.com^
+||shuhai.com^
+||imengxiang.cn^
+||kanshu.com^
+||ddshu.net^
+||synkeyu.com^
+||7xxs.net^
+||dushu.baidu.com^
+||quanshuwang
+||jingyu.com^
+||tsxsw.com^
+||01xs.org
+||yamibo.com^
+||9awx.com^
+||hongxiu.com^
+||574aw.com^
+||guanfang123.com^
+||xs4.cc
+||hjsm.tom.com^
+||tadu.com^
+||zuopibj.com^
+||quanben.co
+||le77.com^
+||xundy.com^
+||jjwxc.net^
+||99zw.cn^
+||555x.org
+||qb5.tw
+||chashu.cc
+||vipreading.com^
+||rou16.com^
+||66liu.com^
+||ebtang.com^
+||yuetutu.com^
+||xzread.com^
+||77xs.org
+||yueloo.com^
+||lzlzw.com^
+||guxs.net^
+||motie.com^
+||xiaoshuo.uc.cn^
+||ireader.com.cn^
+||4xiaoshuo.com^
+||web655.com^
+||123novel.com^
+||asxs.com^
+||ybdu.cc
+||eafei.com^
+||kanunu8.com^
+||qiuxiaoshuo
+||easou.com^
+||shulinw.com^
+||aoyuge.com^
+||k6uk.com^
+||xzyyhl.com^
+||yqxs.net^
+||mianfeixiaoshuoyueduwang.com^
+||wuxia.name
+||inbook.net^
+||chenxitxt.com^
+||52xs.com.cn^
+||wmtxt.com^
+||00xs.com^
+||ctbook.cn^
+||118jie.com^
+||hezibook.com^
+||dreamersall.com^
+||hcxsw.com^
+||tlxsw.com^
+||mingzhuxiaoshuo.com^
+||eshu.org
+||xiashu.cc
+||vodtw.com^
+||qihuan.net.cn^
+||qxs.la
+||youdubook.com^
+||bao61.com^
+||dwxs.net^
+||lol123.net^
+||bjcan.com^
+||bookso.net^
+||31xs.org
+||hrxs8.net^
+||hszw.net^
+||yuncheng.com^
+||xiangcynxsw.com^
+||37xs.net^
+||wodugu.com^
+||76xs.com^
+||23xs.me
+||xs52.org
+||qbxs8.net^
+||mingqingxiaoshuo.com^
+||xbquge.com^
+||ihuaben.com^
+||dolphin-books.com.cn^
+||qingkan520.com^
+||8lwx.com^
+||xs5200.com^
+||ygread.com^
+||heiyan.com^
+||kanshutang.net^
+||chinawuxi.net^
+||147xiaoshuo.com^
+||sj131.cn^
+||zxwda.com^
+||fmxxs.com^
+||zhuangjji.cc
+||wangshugu.com^
+||555b.net^
+||feilu.cc
+||downpk.com^
+||mianhuatang520.com^
+||29ks.com^
+||paipai.fm^
+||1358.tv
+||zongcaixsw.com^
 !小说网站END 百度前19页
 
 !相亲网站
-0.0.0.0 zhenai.com
-0.0.0.0 11yinyuan.com
-0.0.0.0 xiangqinwang.cn
-0.0.0.0 hongniang.com
-0.0.0.0 7799520.com
-0.0.0.0 1314520sz.com
-0.0.0.0 xiangqin5.com
-0.0.0.0 mfxqw.com
-0.0.0.0 yuelaowu.com
-0.0.0.0 zuanshi.com
-0.0.0.0 jiayuan.com
-0.0.0.0 baihe.com
-0.0.0.0 hxdz9.com
-0.0.0.0 taonanw.com
-0.0.0.0 yunjian520.cn
-0.0.0.0 supei.com
-0.0.0.0 025.com
-0.0.0.0 
+||zhenai.com^
+||11yinyuan.com^
+||xiangqinwang.cn^
+||hongniang.com^
+||7799520.com^
+||1314520sz.com^
+||xiangqin5.com^
+||mfxqw.com^
+||yuelaowu.com^
+||zuanshi.com^
+||jiayuan.com^
+||baihe.com^
+||hxdz9.com^
+||taonanw.com^
+||yunjian520.cn^
+||supei.com^
+||025.com^
+||
 !相亲网站END
 
 
