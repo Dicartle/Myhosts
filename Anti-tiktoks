@@ -1,51 +1,51 @@
 !抖音
-0.0.0.0 log.snssdk.com^
-0.0.0.0 xlog.snssdk.com^
-0.0.0.0 i.snssdk.com^
-0.0.0.0 aweme.snssdk.com^
-0.0.0.0 lf.snssdk.com^
-0.0.0.0 is.snssdk.com^
-0.0.0.0 api.amemv.com^
-0.0.0.0 is.snssdk.com^
-0.0.0.0 mon.snssdk.com^
-0.0.0.0 effect.snssdk.com^
-0.0.0.0 hotsoon.snssdk.com^
-0.0.0.0 dm.toutiao.com^
-0.0.0.0 iu.snssdk.com^
+||log.snssdk.com
+||xlog.snssdk.com
+||i.snssdk.com
+||aweme.snssdk.com
+||lf.snssdk.com
+||is.snssdk.com
+||api.amemv.com
+||is.snssdk.com
+||mon.snssdk.com
+||effect.snssdk.com
+||hotsoon.snssdk.com
+||dm.toutiao.com
+||iu.snssdk.com
 !快手
-0.0.0.0 kuaishou.com^
-0.0.0.0 gifshow.com^
-0.0.0.0 ksapisrv.com^
-0.0.0.0 ksyun.com^
-0.0.0.0 live.xycdn.com^
-0.0.0.0 yximgs.com^
+||kuaishou.com
+||gifshow.com
+||ksapisrv.com
+||ksyun.com
+||live.xycdn.com
+||yximgs.com
 !皮皮虾
-0.0.0.0 ixigua.com^
-0.0.0.0 alog.umeng.com^
-0.0.0.0 v3-ppx.ixigua.com^
-0.0.0.0 mon.snssdk.com^
-0.0.0.0 p9-ppx.bytecdn.com^
-0.0.0.0 p3.pstatp.com^
-0.0.0.0 
+||ixigua.com
+||alog.umeng.com
+||v3-ppx.ixigua.com
+||mon.snssdk.com
+||p9-ppx.bytecdn.com
+||p3.pstatp.com
+||
 !歪歪
-0.0.0.0 mlog.hiido.com^
-0.0.0.0 downhdlogo.yy.com^
-0.0.0.0 yy.com^
-0.0.0.0 ylog.hiido.com^
-0.0.0.0 httpdns.gslb.yy.com^
-0.0.0.0 log.sysop.duowan.com^
-0.0.0.0 dataaq.yy.com^
-126.0.0.1 skd-open-phone.getui.com^
+||mlog.hiido.com
+||downhdlogo.yy.com
+||yy.com
+||ylog.hiido.com
+||httpdns.gslb.yy.com
+||log.sysop.duowan.com
+||dataaq.yy.com
+126.0.0.1 skd-open-phone.getui.com
 !今日头条
-0.0.0.0 ib.snssdk.com^
-0.0.0.0 open.nssdk.com^
-0.0.0.0 apilocate.amap.com^
+||ib.snssdk.com
+||open.nssdk.com
+||apilocate.amap.com
 !虎牙
-0.0.0.0 huya.com^
-0.0.0.0 bd.flv.huya.com^
-0.0.0.0 al.p2p.huya.com^
-0.0.0.0 udblog.huya.com^
-0.0.0.0 statwup.huya.com^
-0.0.0.0 msstatic.com^
+||huya.com
+||bd.flv.huya.com
+||al.p2p.huya.com
+||udblog.huya.com
+||statwup.huya.com
+||msstatic.com
 
-0.0.0.0 
+||
