@@ -9,6 +9,7 @@
 0.0.0.0 muzhi.baidu.com
 0.0.0.0 expert.baidu.com
 0.0.0.0 zhaopin.baidu.com
+0.0.0.0 baijiahao.baidu.com
 
 !百度搜索医学咨询
 0.0.0.0 m.haodf.com
@@ -72,6 +73,11 @@
 ||tanzhouedu.com^
 ||shuidichou.com^
 ||qschou.com^
+||shiguangkey.com^
+||zimeiti.com^
+||mp.toutiao.com^
+||sohu.com^
+||163.com^
 ||
 
 
