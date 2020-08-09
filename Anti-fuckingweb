@@ -1,4 +1,4 @@
-!百度部分垃圾网站
+#百度部分垃圾网站
 0.0.0.0 news.baidu.com
 0.0.0.0 dumall.baidu.com
 0.0.0.0 haokan.baidu.com
@@ -10,7 +10,7 @@
 0.0.0.0 expert.baidu.com
 0.0.0.0 zhaopin.baidu.com
 
-!百度搜索医学咨询
+#百度搜索医学咨询
 0.0.0.0 m.haodf.com
 0.0.0.0 120ask.com
 0.0.0.0 zixun.haodf.com
@@ -38,7 +38,12 @@
 0.0.0.0 51kys.com.cn
 0.0.0.0 soujibing.com
 
-!国内狗屎网站和公司
+#百度搜索显示的诈骗网站
+||99box.com^
+||tzdsjx.com^
+||
+
+#国内狗屎网站和公司
 ||sogou.com^
 ||baike.com^
 ||vmall.com^
@@ -78,7 +83,7 @@
 ||chinaso.com^
 ||
 
-!国内狗屎网站和公司End
+#国内狗屎网站和公司End
 
 !小说网站
 ||qidian.com^
@@ -211,9 +216,9 @@
 ||paipai.fm^
 ||1358.tv
 ||zongcaixsw.com^
-!小说网站END 百度前19页
+#小说网站END 百度前19页
 
-!相亲网站
+#相亲网站
 ||zhenai.com^
 ||11yinyuan.com^
 ||xiangqinwang.cn^
@@ -231,6 +236,6 @@
 ||yunjian520.cn^
 ||supei.com^
 ||025.com^
-!相亲网站END
+#相亲网站END
 
 
