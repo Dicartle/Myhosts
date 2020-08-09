@@ -9,7 +9,6 @@
 0.0.0.0 muzhi.baidu.com
 0.0.0.0 expert.baidu.com
 0.0.0.0 zhaopin.baidu.com
-0.0.0.0 baijiahao.baidu.com
 
 !百度搜索医学咨询
 0.0.0.0 m.haodf.com
@@ -78,7 +77,6 @@
 ||mp.toutiao.com^
 ||chinaso.com^
 ||
-
 
 !国内狗屎网站和公司End
 
