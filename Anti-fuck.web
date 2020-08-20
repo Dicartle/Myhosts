@@ -9,7 +9,6 @@
 ||*.gg^
 ||*.health^
 ||*.life^
-||*.live^
 ||*.me^
 ||*.network^
 ||*.page^
@@ -18,3 +17,4 @@
 ||*.studio^
 ||*.to^
 ||*.xyz^
+||*.cc^
