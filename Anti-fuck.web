@@ -372,7 +372,6 @@
 ||*.ec^
 ||*.eco^
 ||*.edeka^
-||*.edu^
 ||*.education^
 ||*.ee^
 ||*.eg^
@@ -908,6 +907,7 @@
 ||*.panasonic^
 ||*.paris^
 ||*.pars^
+
 ||*.partners^
 ||*.parts^
 ||*.party^
