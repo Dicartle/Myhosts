@@ -1,5 +1,4 @@
 #所有顶级域名
-
 ||*.aaa^
 ||*.aarp^
 ||*.abarth^
@@ -265,14 +264,12 @@
 ||*.club^
 ||*.clubmed^
 ||*.cm^
-||*.cn^
 ||*.co^
 ||*.coach^
 ||*.codes^
 ||*.coffee^
 ||*.college^
 ||*.cologne^
-||*.com^
 ||*.comcast^
 ||*.commbank^
 ||*.community^
@@ -519,7 +516,6 @@
 ||*.google^
 ||*.gop^
 ||*.got^
-||*.gov^
 ||*.gp^
 ||*.gq^
 ||*.gr^
@@ -559,7 +555,6 @@
 ||*.hisamitsu^
 ||*.hitachi^
 ||*.hiv^
-||*.hk^
 ||*.hkt^
 ||*.hm^
 ||*.hn^
@@ -648,7 +643,6 @@
 ||*.joburg^
 ||*.jot^
 ||*.joy^
-||*.jp^
 ||*.jpmorgan^
 ||*.jprs^
 ||*.juegos^
@@ -845,7 +839,6 @@
 ||*.nc^
 ||*.ne^
 ||*.nec^
-||*.net^
 ||*.netbank^
 ||*.netflix^
 ||*.network^
@@ -904,7 +897,6 @@
 ||*.open^
 ||*.oracle^
 ||*.orange^
-||*.org^
 ||*.organic^
 ||*.origins^
 ||*.osaka^
@@ -1241,7 +1233,6 @@
 ||*.tushu^
 ||*.tv^
 ||*.tvs^
-||*.tw^
 ||*.tz^
 ||*.ua^
 ||*.ubank^
@@ -1420,7 +1411,6 @@
 ||*.ck^
 ||*.cl^
 ||*.cm^
-||*.cn^
 ||*.co^
 ||*.cp^
 ||*.cq^
@@ -1542,7 +1532,6 @@
 ||*.hg^
 ||*.hi^
 ||*.hj^
-||*.hk^
 ||*.hl^
 ||*.hm^
 ||*.hn^
@@ -1597,7 +1586,6 @@
 ||*.jm^
 ||*.jn^
 ||*.jo^
-||*.jp^
 ||*.jq^
 ||*.jr^
 ||*.js^
@@ -1854,7 +1842,6 @@
 ||*.ts^
 ||*.tu^
 ||*.tv^
-||*.tw^
 ||*.tx^
 ||*.ty^
 ||*.tz^
@@ -1876,7 +1863,6 @@
 ||*.up^
 ||*.uq^
 ||*.ur^
-||*.us^
 ||*.ut^
 ||*.uv^
 ||*.uw^
