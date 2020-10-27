@@ -1,121 +1,121 @@
 #党办媒体与相关
-0.0.0.0 12371.cn
-0.0.0.0 hubpd.com
-0.0.0.0 people.com.cn
-0.0.0.0 people.cn
-0.0.0.0 haiwainet.cn
-0.0.0.0 gmw.cn
-0.0.0.0 ce.cn
-0.0.0.0 81.cn
-0.0.0.0 dswxyjy.org.cn
-0.0.0.0 djyj.cn
-0.0.0.0 nopss.gov.cn
-0.0.0.0 tyzx.people.cn
-0.0.0.0 qizhiwang.org.cn
-0.0.0.0 rencai.people.com.cn
-0.0.0.0 acftu.people.com.cn
-0.0.0.0 womenvoice.cn
-0.0.0.0 dengxiaopingnet.com
-0.0.0.0 cnautonews.com
-0.0.0.0 marketdaily.com.cn
-0.0.0.0 stcn.com
-0.0.0.0 hqrw.com.cn
-0.0.0.0 ceweekly.cn
-0.0.0.0 msweekly.com
-0.0.0.0 xuexi.cn
-0.0.0.0 peopletech.cn
-0.0.0.0 people78.cn
-0.0.0.0 huanqiu.com
-0.0.0.0 xinhuanet.com
-0.0.0.0 banyuetan.org
-0.0.0.0 news.cn
-0.0.0.0 chnphoto.cn
-0.0.0.0 xinhuapub.com
-0.0.0.0 wenming.cn
-0.0.0.0 qstheory.cn
-0.0.0.0 chinadaily.com.cn
-0.0.0.0 cri.cn
-0.0.0.0 stdaily.com
-0.0.0.0 jjjcb.cn
-0.0.0.0 workercn.cn
-0.0.0.0 cyol.com
-0.0.0.0 cnwomen.com.cn
-0.0.0.0 farmer.com.cn
-0.0.0.0 legaldaily.com.cn
-0.0.0.0 chinanews.com
+||12371.cn^
+||hubpd.com^
+||people.com^.cn^
+||people.cn^
+||haiwainet.cn^
+||gmw.cn^
+||ce.cn^
+||81.cn^
+||dswxyjy.org.cn^
+||djyj.cn^
+||nopss.gov.cn^
+||tyzx.people.cn^
+||qizhiwang.org.cn^
+||rencai.people.com^.cn^
+||acftu.people.com^.cn^
+||womenvoice.cn^
+||dengxiaopingnet.com^
+|.cn^autonews.com^
+||marketdaily.com^.cn^
+||s.cn^.com^
+||hqrw.com^.cn^
+||ceweekly.cn^
+||msweekly.com^
+||xuexi.cn^
+||peopletech.cn^
+||people78.cn^
+||huanqiu.com^
+||xinhuanet.com^
+||banyuetan.org
+||news.cn^
+||chnphoto.cn^
+||xinhuapub.com^
+||wenming.cn^
+||qstheory.cn^
+||chinadaily.com^.cn^
+||cri.cn^
+||stdaily.com^
+||jjjcb.cn^
+||worke.cn^.cn^
+||cyol.com^
+|.cn^women.com^.cn^
+||farmer.com^.cn^
+||legaldaily.com^.cn^
+||chinanews.com^
  
 #省办党媒
-0.0.0.0 bjd.com.cn
-0.0.0.0 tianjinwe.com
-0.0.0.0 jfdaily.com
-0.0.0.0 cqrb.cn
-0.0.0.0 hebnews.cn
-0.0.0.0 sxrb.com
-0.0.0.0 northnews.cn
-0.0.0.0 ind.com.cn
-0.0.0.0 cnjiwang.com
-0.0.0.0 hljnews.cn
-0.0.0.0 xhby.net
-0.0.0.0 zjol.com.cn
-0.0.0.0 ahnews.com.cn
-0.0.0.0 fjsen.com
-0.0.0.0 jxxw.com.cn
-0.0.0.0 dzwww.com
-0.0.0.0 henandaily.cn
-0.0.0.0 dahe.cn
-0.0.0.0 cnhubei.com
-0.0.0.0 hubeidaily.net
-0.0.0.0 voc.com.cn
-0.0.0.0 southcn.com
-0.0.0.0 gxrb.com.cn
-0.0.0.0 gxnews.com.cn
-0.0.0.0 hinews.cn
-0.0.0.0 scdaily.cn
-0.0.0.0 yndaily.com
-0.0.0.0 yunnan.cn
-0.0.0.0 gog.cn
-0.0.0.0 chinatibetnews.com
-0.0.0.0 xzxw.com
-0.0.0.0 sxdaily.com.cn
-0.0.0.0 nxnews.net
-0.0.0.0 gansudaily.com.cn
-0.0.0.0 tibet3.com
-0.0.0.0 qhlingwang.com
-0.0.0.0 xjdaily.com.cn
-0.0.0.0 xjdaily.com
+||bjd.com^.cn^
+||tianjinwe.com^
+||jfdaily.com^
+||cqrb.cn^
+||hebnews.cn^
+||sxrb.com^
+||northnews.cn^
+||ind.com^.cn^
+|.cn^jiwang.com^
+||hljnews.cn^
+||xhby.net
+||zjol.com^.cn^
+||ahnews.com^.cn^
+||fjsen.com^
+||jxxw.com^.cn^
+||dzwww.com^
+||henandaily.cn^
+||dahe.cn^
+|.cn^hubei.com^
+||hubeidaily.net
+||voc.com^.cn^
+||sout.cn^.com^
+||gxrb.com^.cn^
+||gxnews.com^.cn^
+||hinews.cn^
+||scdaily.cn^
+||yndaily.com^
+||yunnan.cn^
+||gog.cn^
+||chinatibetnews.com^
+||xzxw.com^
+||sxdaily.com^.cn^
+||nxnews.net
+||gansudaily.com^.cn^
+||tibet3.com^
+||qhlingwang.com^
+||xjdaily.com^.cn^
+||xjdaily.com^
 
 #红色网站
-0.0.0.0 hsxgw.gov.cn
-0.0.0.0 wyzxwk.com
-0.0.0.0 haijiangzx.com
-0.0.0.0 hswh.org.cn
-0.0.0.0 szhgh.com
-0.0.0.0 mzfxw.com
-0.0.0.0 maoflag.cc
-0.0.0.0 kunlunce.com
-0.0.0.0 txssw.com
-0.0.0.0 jbwhw.cn
-0.0.0.0 mebk.org
-0.0.0.0 ssrscl.com
-0.0.0.0 crt.com.cn
-0.0.0.0 zhurengong.net
-0.0.0.0 mzdbl.cn
-0.0.0.0 youngchina.org
-0.0.0.0 rednet.cn
+||hsxgw.gov.cn^
+||wyzxwk.com^
+||haijiangzx.com^
+||hswh.org.cn^
+||szhgh.com^
+||mzfxw.com^
+||maoflag.cc
+||kunlunce.com^
+||txssw.com^
+||jbwhw.cn^
+||mebk.org
+||ssrscl.com^
+||crt.com^.cn^
+||zhurengong.net
+||mzdbl.cn^
+||youngchina.org
+||rednet.cn^
 
 #中共直属机关
-0.0.0.0 ccdi.gov.cn
-0.0.0.0 zytzb.cn
-0.0.0.0 idcpc.org.cn
-0.0.0.0 chinapeace.gov.cn
-0.0.0.0 gwytb.gov.cn
-0.0.0.0 scopsr.gov.cn
-0.0.0.0 zgg.org.cn
-0.0.0.0 ccps.gov.cn
-0.0.0.0 dswxyjy.org.cn
-0.0.0.0 cctb.net
-0.0.0.0 celap.org.cn
-0.0.0.0 celaj.gov.cn
-0.0.0.0 celay.org.cn
-0.0.0.0 ccgp.gov.cn
+||ccdi.gov.cn^
+||zytzb.cn^
+||idcpc.org.cn^
+||chinapeace.gov.cn^
+||gwytb.gov.cn^
+||scopsr.gov.cn^
+||zgg.org.cn^
+||ccps.gov.cn^
+||dswxyjy.org.cn^
+||cctb.net
+||celap.org.cn^
+||celaj.gov.cn^
+||celay.org.cn^
+||ccgp.gov.cn^
 
