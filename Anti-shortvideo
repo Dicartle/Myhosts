@@ -1,59 +1,59 @@
 #快手
-0.0.0.0 kuaishou.com
-0.0.0.0 gifshow.com
-0.0.0.0 ksapisrv.com
-0.0.0.0 kuaishoupay.com
-0.0.0.0 ksyun.com
-0.0.0.0 live.xycdn.com
-0.0.0.0 danuoyi.alicdn.com
-0.0.0.0 yximgs.com
-0.0.0.0 kwaixiaodian.com
-0.0.0.0 kuaishouzt.com
+||kuaishou.com^
+||gifshow.com^
+||ksapisrv.com^
+||kuaishoupay.com^
+||ksyun.com^
+||live.xycdn.com^
+||danuoyi.alicdn.com^
+||yximgs.com^
+||kwaixiaodian.com^
+||kuaishouzt.com^
 #皮皮虾
-0.0.0.0 ixigua.com
-0.0.0.0 alog.umeng.com
-0.0.0.0 v3-ppx.ixigua.com
-0.0.0.0 mon.snssdk.com
-0.0.0.0 p9-ppx.bytecdn.com
-0.0.0.0 p3.pstatp.com
+||ixigua.com^
+||alog.umeng.com^
+||v3-ppx.ixigua.com^
+||mon.snssdk.com^
+||p9-ppx.bytecdn.com^
+||p3.pstatp.com^
 #今日头条
-0.0.0.0 ib.snssdk.com
-0.0.0.0 open.nssdk.com
-0.0.0.0 apilocate.amap.com
-0.0.0.0 toutiao.com
+||ib.snssdk.com^
+||open.nssdk.com^
+||apilocate.amap.com^
+||toutiao.com^
 #抖音
-0.0.0.0 log.snssdk.com
-0.0.0.0 xlog.snssdk.com
-0.0.0.0 i.snssdk.com
-0.0.0.0 aweme.snssdk.com
-0.0.0.0 lf.snssdk.com
-0.0.0.0 is.snssdk.com
-0.0.0.0 api.amemv.com
-0.0.0.0 is.snssdk.com
-0.0.0.0 mon.snssdk.com
-0.0.0.0 effect.snssdk.com
-0.0.0.0 hotsoon.snssdk.com
-0.0.0.0 dm.toutiao.com
-0.0.0.0 iu.snssdk.com
+||log.snssdk.com^
+||xlog.snssdk.com^
+||i.snssdk.com^
+||aweme.snssdk.com^
+||lf.snssdk.com^
+||is.snssdk.com^
+||api.amemv.com^
+||is.snssdk.com^
+||mon.snssdk.com^
+||effect.snssdk.com^
+||hotsoon.snssdk.com^
+||dm.toutiao.com^
+||iu.snssdk.com^
 #花椒
-0.0.0.0 huajiao.com
+||huajiao.com^
 #麻花
 0.0.0.0
 #百度视频
-0.0.0.0 xiaodutv.com
+||xiaodutv.com^
 #球球视频
-0.0.0.0 redianduanzi.com
+||redianduanzi.com^
 #西瓜视频
-0.0.0.0 toutiao.com
+||toutiao.com^
 #火山小视频
-0.0.0.0 byteimg.com
-0.0.0.0 huoshanvod.com
-0.0.0.0 byteimg.com
-0.0.0.0 douyincdn.com
+||byteimg.com^
+||huoshanvod.com^
+||byteimg.com^
+||douyincdn.com^
 #好看视频
-0.0.0.0 bdstatic.com
-0.0.0.0 bcebos.com
+||bdstatic.com^
+||bcebos.com^
 #波波视频
-0.0.0.0 bbobo.com 
-0.0.0.0 adwangmai.com
+||bbobo.com^ 
+||adwangmai.com^
 #
