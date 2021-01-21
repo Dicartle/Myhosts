@@ -39,15 +39,15 @@
 ||*.akdn^
 ||*.al^
 ||*.alfaromeo^
-||*.alibaba^
-||*.alipay^
+
+
 ||*.allfinanz^
 ||*.allstate^
 ||*.ally^
 ||*.alsace^
 ||*.alstom^
 ||*.am^
-||*.amazon^
+
 ||*.americanexpress^
 ||*.americanfamily^
 ||*.amex^
@@ -145,7 +145,7 @@
 ||*.black^
 ||*.blackfriday^
 ||*.blockbuster^
-||*.blog^
+
 ||*.bloomberg^
 ||*.blue^
 ||*.bm^
@@ -500,7 +500,7 @@
 ||*.global^
 ||*.globo^
 ||*.gm^
-||*.gmail^
+
 ||*.gmbh^
 ||*.gmo^
 ||*.gmx^
@@ -512,7 +512,7 @@
 ||*.goo^
 ||*.goodyear^
 ||*.goog^
-||*.google^
+
 ||*.gop^
 ||*.got^
 ||*.gp^
@@ -611,7 +611,7 @@
 ||*.international^
 ||*.intuit^
 ||*.investments^
-||*.io^
+
 ||*.ipiranga^
 ||*.iq^
 ||*.ir^
@@ -1346,4 +1346,3 @@
 ||*.zone^
 ||*.zuerich^
 ||*.zw^
-
