@@ -25,6 +25,17 @@
 0.0.0.0 laomaotao.net
 0.0.0.0 liebao.cn
 
+#国内输入法软件-----------------------
+0.0.0.0 xunfei.cn
+0.0.0.0 shurufa.baidu.com
+0.0.0.0 pinyin.sogou.com
+0.0.0.0 shurufa.qq.com
+0.0.0.0 wnwb.com
+0.0.0.0 pinyin.thunisoft.com
+0.0.0.0 zhihuizhangyu.com
+0.0.0.0 pinyin.2345.cc
+0.0.0.0 weshineapp.com
+
 #国内直播网站--------------------------
 0.0.0.0 huya.com
 0.0.0.0 douyu.com
@@ -74,7 +85,7 @@
 0.0.0.0 360.com
 0.0.0.0 360safe.com
 
-#国内科技公司
+#国内科技公司------------------------------
 0.0.0.0 huawei.com
 0.0.0.0 vmall.com
 0.0.0.0 huaweicloud.com
@@ -82,7 +93,32 @@
 0.0.0.0 iflytek.com
 0.0.0.0 
 
-#屏蔽垃圾游戏和软件下载站
+#国内婚恋网站-----------------------------
+0.0.0.0 jiayuan.com
+0.0.0.0 zhenai.com
+0.0.0.0 baihe.com
+0.0.0.0 youyuan.com
+0.0.0.0 hongniang.com
+0.0.0.0 520yidui.com
+0.0.0.0 yuehui.163.com
+0.0.0.0 love.163.com
+0.0.0.0 yingtaorelian.com
+0.0.0.0 7799520.co
+0.0.0.0 zhiji.com
+0.0.0.0 51marryyou.com
+0.0.0.0 51taonan.com
+0.0.0.0 ipart.cn
+0.0.0.0 zuanshi.com
+0.0.0.0 yuanlai.com
+0.0.0.0 lol99.com
+0.0.0.0 love.ganji.com
+0.0.0.0 quyuehui.com
+0.0.0.0 5151td.com
+0.0.0.0 ydjs1314.com
+0.0.0.0 www.ylike.com
+0.0.0.0 lovecircleapp.com
+
+#屏蔽垃圾游戏和软件下载站-------------------
 0.0.0.0 ali213.net
 0.0.0.0 yxdown.com
 0.0.0.0 99danji.com
