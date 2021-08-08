@@ -10,6 +10,28 @@
 0.0.0.0 duba.com
 0.0.0.0 jjol.cn
 
+#互联网媒体平台
+0.0.0.0 new.qq.com
+0.0.0.0 sina.com.cn
+0.0.0.0 163.com
+0.0.0.0 ifeng.com
+0.0.0.0 sohu.com
+0.0.0.0 mrjjxw.com
+0.0.0.0 yidianzixun.com
+0.0.0.0 btime.com
+
+#互联网自媒体平台
+0.0.0.0 baijiahao.baidu.com
+0.0.0.0 toutiao.com
+0.0.0.0 mp.sohu.com
+0.0.0.0 mp.ifeng.com
+0.0.0.0 dayu.com
+0.0.0.0 mp.163.com
+0.0.0.0 om.qq.com
+0.0.0.0 mp.yidianzixun.com
+0.0.0.0 jianshu.com
+0.0.0.0 jiemian.com
+
 #国内流氓软件------------------------
 0.0.0.0 ludashi.com
 0.0.0.0 kuaizip.com
