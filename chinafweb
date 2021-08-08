@@ -1,228 +1,227 @@
 #上网导航网站------------------------
-0.0.0.0 hao.qq.com
-0.0.0.0 hao.360.com
-0.0.0.0 hao123.com
-0.0.0.0 2345.com
-0.0.0.0 123.sogou.com
-0.0.0.0 265.com
-0.0.0.0 1616.net
-0.0.0.0 hao.uc.cn
-0.0.0.0 duba.com
-0.0.0.0 jjol.cn
+||hao.qq.com^
+||hao.360.com^
+||hao123.com^
+||2345.com^
+||123.sogou.com^
+||265.com^
+||1616.net^
+||hao.uc.cn^
+||duba.com^
+||jjol.cn^
 
 #互联网媒体平台
-0.0.0.0 new.qq.com
-0.0.0.0 sina.com.cn
-0.0.0.0 163.com
-0.0.0.0 ifeng.com
-0.0.0.0 sohu.com
-0.0.0.0 mrjjxw.com
-0.0.0.0 yidianzixun.com
-0.0.0.0 btime.com
+||new.qq.com^
+||sina.com.cn^
+||163.com^
+||ifeng.com^
+||sohu.com^
+||mrjjxw.com^
+||yidianzixun.com^
+||btime.com^
 
-#互联网自媒体平台
-0.0.0.0 baijiahao.baidu.com
-0.0.0.0 toutiao.com
-0.0.0.0 mp.sohu.com
-0.0.0.0 mp.ifeng.com
-0.0.0.0 dayu.com
-0.0.0.0 mp.163.com
-0.0.0.0 om.qq.com
-0.0.0.0 mp.yidianzixun.com
-0.0.0.0 jianshu.com
-0.0.0.0 jiemian.com
+#互联网自媒体平台^
+||baijiahao.baidu.com^
+||toutiao.com^
+||mp.sohu.com^
+||mp.ifeng.com^
+||dayu.com^
+||mp.163.com^
+||om.qq.com^
+||mp.yidianzixun.com^
+||jianshu.com^
+||jiemian.com^
 
 #国内流氓软件------------------------
-0.0.0.0 ludashi.com
-0.0.0.0 kuaizip.com
-0.0.0.0 pptv.com
-0.0.0.0 birdpaper.cn
-0.0.0.0 wps.cn
-0.0.0.0 guanjia.qq.com
-0.0.0.0 pinyin.sogou.com
-0.0.0.0 drivergenius.com
-0.0.0.0 7654.com 
-0.0.0.0 flash.cn
-0.0.0.0 wifi.com
-0.0.0.0 laomaotao.net
-0.0.0.0 liebao.cn
+||ludashi.com^
+||kuaizip.com^
+||pptv.com^
+||birdpaper.cn^
+||wps.cn^
+||guanjia.qq.com^
+||pinyin.sogou.com^
+||drivergenius.com^
+||7654.com ^
+||flash.cn^
+||wifi.com^
+||laomaotao.net^
+||liebao.cn^
 
 #国内输入法软件-----------------------
-0.0.0.0 xunfei.cn
-0.0.0.0 shurufa.baidu.com
-0.0.0.0 pinyin.sogou.com
-0.0.0.0 shurufa.qq.com
-0.0.0.0 wnwb.com
-0.0.0.0 pinyin.thunisoft.com
-0.0.0.0 zhihuizhangyu.com
-0.0.0.0 pinyin.2345.cc
-0.0.0.0 weshineapp.com
+||xunfei.cn^
+||shurufa.baidu.com^
+||pinyin.sogou.com^
+||shurufa.qq.com^
+||wnwb.com^
+||pinyin.thunisoft.com^
+||zhihuizhangyu.com^
+||pinyin.2345.cc^
+||weshineapp.com^
 
 #国内直播网站--------------------------
-0.0.0.0 huya.com
-0.0.0.0 douyu.com
-0.0.0.0 zhanqi.tv
-0.0.0.0 v.6.cn
-0.0.0.0 yy.com
-0.0.0.0 huajiao.com
-0.0.0.0 now.qq.com
-0.0.0.0 cc.163.com
-0.0.0.0 live.bilibili.com
-0.0.0.0 live.youku.com
- #腾讯直播非子域名
-0.0.0.0 live.ixigua.com
-0.0.0.0 v.17173.com
-0.0.0.0 longzhu.com
-0.0.0.0 live.kuaishou.com
-0.0.0.0 egame.qq.com
-0.0.0.0 inke.cn
-0.0.0.0 imbatv.cn
-0.0.0.0 kktv5.com
-0.0.0.0 fanxing.kugou.com
-0.0.0.0 laifeng.com
-0.0.0.0 x.pps.tv
-0.0.0.0 9158.com
-0.0.0.0 live.wali.com
-0.0.0.0 jx.kuwo.cn
-0.0.0.0 zhibo.renren.com
-0.0.0.0 live.baidu.com
-0.0.0.0 9xiu.com
-0.0.0.0 4399youpai.com
-0.0.0.0 95xiu.com
-0.0.0.0 hongle.tv
-0.0.0.0 weiboyi.com
-0.0.0.0 lehaitv.com
-0.0.0.0 2339.com
+||huya.com^
+||douyu.com^
+||zhanqi.tv^
+||v.6.cn^
+||yy.com^
+||huajiao.com^
+||now.qq.com^
+||cc.163.com^
+||live.bilibili.com^
+||live.youku.com^
+|#腾讯直播非子域名
+||live.ixigua.com^
+||v.17173.com^
+||longzhu.com^
+||live.kuaishou.com^
+||egame.qq.com^
+||inke.cn^
+||imbatv.cn^
+||kktv5.com^
+||fanxing.kugou.com^
+||laifeng.com^
+||x.pps.tv^
+||9158.com^
+||live.wali.com^
+||jx.kuwo.cn^
+||zhibo.renren.com^
+||live.baidu.com^
+||9xiu.com^
+||4399youpai.com^
+||95xiu.com^
+||hongle.tv^
+||weiboyi.com^
+||lehaitv.com^
+||2339.com^
 
 #国内杀毒软件---------------------------------
-0.0.0.0 ijinshan.com
-0.0.0.0 jiangmin.com
-0.0.0.0 rising.com.cn
-0.0.0.0 micropoint.com.cn
-0.0.0.0 greatsteam.com
-0.0.0.0 antiyfx.com
-0.0.0.0 ahnlab.com
-0.0.0.0 filseclab.com
-0.0.0.0 360.cn
-0.0.0.0 360.com
-0.0.0.0 360safe.com
+||ijinshan.com^
+||jiangmin.com^
+||rising.com.cn^
+||micropoint.com.cn^
+||greatsteam.com^
+||antiyfx.com^
+||ahnlab.com^
+||filseclab.com^
+||360.cn^
+||360.com^
+||360safe.com^
 
 #国内科技公司------------------------------
-0.0.0.0 huawei.com
-0.0.0.0 vmall.com
-0.0.0.0 huaweicloud.com
-0.0.0.0 dji.com
-0.0.0.0 iflytek.com
-0.0.0.0 
+||huawei.com^
+||vmall.com^
+||huaweicloud.com^
+||dji.com^
+||iflytek.com^
 
 #国内婚恋网站-----------------------------
-0.0.0.0 jiayuan.com
-0.0.0.0 zhenai.com
-0.0.0.0 baihe.com
-0.0.0.0 youyuan.com
-0.0.0.0 hongniang.com
-0.0.0.0 520yidui.com
-0.0.0.0 yuehui.163.com
-0.0.0.0 love.163.com
-0.0.0.0 yingtaorelian.com
-0.0.0.0 7799520.co
-0.0.0.0 zhiji.com
-0.0.0.0 51marryyou.com
-0.0.0.0 51taonan.com
-0.0.0.0 ipart.cn
-0.0.0.0 zuanshi.com
-0.0.0.0 yuanlai.com
-0.0.0.0 lol99.com
-0.0.0.0 love.ganji.com
-0.0.0.0 quyuehui.com
-0.0.0.0 5151td.com
-0.0.0.0 ydjs1314.com
-0.0.0.0 www.ylike.com
-0.0.0.0 lovecircleapp.com
+||jiayuan.com^
+||zhenai.com^
+||baihe.com^
+||youyuan.com^
+||hongniang.com^
+||520yidui.com^
+||yuehui.163.com^
+||love.163.com^
+||yingtaorelian.com^
+||7799520.co^
+||zhiji.com^
+||51marryyou.com^
+||51taonan.com^
+||ipart.cn^
+||zuanshi.com^
+||yuanlai.com^
+||lol99.com^
+||love.ganji.com^
+||quyuehui.com^
+||5151td.com^
+||ydjs1314.com^
+||www.ylike.com^
+||lovecircleapp.com^
 
 #屏蔽垃圾游戏和软件下载站-------------------
-0.0.0.0 ali213.net
-0.0.0.0 yxdown.com
-0.0.0.0 99danji.com
-0.0.0.0 pc.52pk.com
-0.0.0.0 doyo.cn
-0.0.0.0 yxbao.com
-0.0.0.0 wanyx.com
-0.0.0.0 newyx.net
-0.0.0.0 pc.kuai8.com
-0.0.0.0 91danji.com
-0.0.0.0 pc.tgbus.com
-0.0.0.0 pc.07073.com
-0.0.0.0 3h3.com
-0.0.0.0 fxxz.com
-0.0.0.0 paopaoche.net
-0.0.0.0 pc.xiaopi.com
-0.0.0.0 youxicheng.net
-0.0.0.0 jcku.com
-0.0.0.0 danji6.com
-0.0.0.0 pcsoft.com.cn
-0.0.0.0 skycn.com
-0.0.0.0 repink.net
-0.0.0.0 pc6.com
-0.0.0.0 wmzhe.com
-0.0.0.0 yesky.com
-0.0.0.0 skycn.net
-0.0.0.0 xpgod.com
-0.0.0.0 xiazaiba.com
-0.0.0.0 jisuxz.com
-0.0.0.0 ttrar.com
-0.0.0.0 itmop.com
-0.0.0.0 pc141.com
-0.0.0.0 cncrk.com
-0.0.0.0 downg.com
-0.0.0.0 53307.com
-0.0.0.0 uzzf.com
-0.0.0.0 52z.com
-0.0.0.0 ttrar.com
-0.0.0.0 xz7.com
-0.0.0.0 xiazaigang.com
-0.0.0.0 orsoon.com
-0.0.0.0 juxiazai.com
-0.0.0.0 crxz.com
-0.0.0.0 ddooo.com
-0.0.0.0 ruanjianxia.com
-0.0.0.0 xiazaizhijia.com
-0.0.0.0 greenxf.com
-0.0.0.0 cr173.com
-0.0.0.0 xiaopi.com
-0.0.0.0 jyrd.com
-0.0.0.0 lhdown.com
-0.0.0.0 wsf1234.com
-0.0.0.0 townwu.com
-0.0.0.0 downcc.com
-0.0.0.0 51xiazai.cn
-0.0.0.0 crsky.com
-0.0.0.0 edowning.net
-0.0.0.0 99down.com
-0.0.0.0 9upk.com
-0.0.0.0 jb51.net
-0.0.0.0 waigua.la
-0.0.0.0 duote.com
-0.0.0.0 ttrar.com
-0.0.0.0 9553.com
-0.0.0.0 shouji.baidu.com
-0.0.0.0 apk3.com
-0.0.0.0 mumayi.com
-0.0.0.0 wandoujia.com
-0.0.0.0 d.cn
-0.0.0.0 pc6.com
-0.0.0.0 eoemarket.com
-0.0.0.0 appchina.com
-0.0.0.0 33lk.com
-0.0.0.0 2265.com
-0.0.0.0 25az.com
-0.0.0.0 muzhiwan.com
-0.0.0.0 zdfans.com
-0.0.0.0 6down.net
-0.0.0.0 weianzhuo.cn
-0.0.0.0 5577.com
-0.0.0.0 veryhuo.com
-0.0.0.0 downyi.com
-0.0.0.0 99danji.com
-0.0.0.0 fly139.com
-0.0.0.0 7723.cn
+||ali213.net^
+||yxdown.com^
+||99danji.com^
+||pc.52pk.com^
+||doyo.cn^
+||yxbao.com^
+||wanyx.com^
+||newyx.net^
+||pc.kuai8.com^
+||91danji.com^
+||pc.tgbus.com^
+||pc.07073.com^
+||3h3.com^
+||fxxz.com^
+||paopaoche.net^
+||pc.xiaopi.com^
+||youxicheng.net^
+||jcku.com^
+||danji6.com^
+||pcsoft.com.cn^
+||skycn.com^
+||repink.net^
+||pc6.com^
+||wmzhe.com^
+||yesky.com^
+||skycn.net^
+||xpgod.com^
+||xiazaiba.com^
+||jisuxz.com^
+||ttrar.com^
+||itmop.com^
+||pc141.com^
+||cncrk.com^
+||downg.com^
+||53307.com^
+||uzzf.com^
+||52z.com^
+||ttrar.com^
+||xz7.com^
+||xiazaigang.com^
+||orsoon.com^
+||juxiazai.com^
+||crxz.com^
+||ddooo.com^
+||ruanjianxia.com^
+||xiazaizhijia.com^
+||greenxf.com^
+||cr173.com^
+||xiaopi.com^
+||jyrd.com^
+||lhdown.com^
+||wsf1234.com^
+||townwu.com^
+||downcc.com^
+||51xiazai.cn^
+||crsky.com^
+||edowning.net^
+||99down.com^
+||9upk.com^
+||jb51.net^
+||waigua.la^
+||duote.com^
+||ttrar.com^
+||9553.com^
+||shouji.baidu.com^
+||apk3.com^
+||mumayi.com^
+||wandoujia.com^
+||d.cn^
+||pc6.com^
+||eoemarket.com^
+||appchina.com^
+||33lk.com^
+||2265.com^
+||25az.com^
+||muzhiwan.com^
+||zdfans.com^
+||6down.net^
+||weianzhuo.cn^
+||5577.com^
+||veryhuo.com^
+||downyi.com^
+||99danji.com^
+||fly139.com^
+||7723.cn^
