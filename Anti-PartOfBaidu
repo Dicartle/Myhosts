@@ -10,7 +10,6 @@
 0.0.0.0 fanyi-pro.baidu.com
 0.0.0.0 video.baidu.com
 0.0.0.0 news.baidu.com
-0.0.0.0 xueshu.baidu.com
 0.0.0.0 quzheng.baidu.com
 0.0.0.0 duer.baidu.com
 0.0.0.0 anquan.baidu.com
@@ -61,3 +60,4 @@
 #（贴吧放行）
 #（百度知道放行）
 #（百度百科放行）
+#（百度学术放行）
