@@ -209,24 +209,24 @@
 0.0.0.0 ex.qq.com
 0.0.0.0 cgi.connect.qq.com
 #屏蔽腾讯广告代码
-0.0.0.0  adslvfile.qq.com
-0.0.0.0  adsfile.qq.com
-0.0.0.0  play.qq.com
-0.0.0.0  adslvfile.qq.com
-0.0.0.0  tj.video.qq.com
-0.0.0.0  vv.video.qq.com
-0.0.0.0  livep.l.qq.com
-0.0.0.0  rcgi.video.qq.com
-0.0.0.0  aid.video.qq.com
-0.0.0.0  pinghot.qq.com
-0.0.0.0  54kfqq.com
-0.0.0.0  qqbm.zhuiying.net
-0.0.0.0  qqbmad.mycode8.net
-0.0.0.0  vhotlxp.video.qq.com
-0.0.0.0  livem.l.qq.com
+0.0.0.0 adslvfile.qq.com
+0.0.0.0 adsfile.qq.com
+0.0.0.0 play.qq.com
+0.0.0.0 adslvfile.qq.com
+0.0.0.0 tj.video.qq.com
+0.0.0.0 vv.video.qq.com
+0.0.0.0 livep.l.qq.com
+0.0.0.0 rcgi.video.qq.com
+0.0.0.0 aid.video.qq.com
+0.0.0.0 pinghot.qq.com
+0.0.0.0 54kfqq.com
+0.0.0.0 qqbm.zhuiying.net
+0.0.0.0 qqbmad.mycode8.net
+0.0.0.0 vhotlxp.video.qq.com
+0.0.0.0 livem.l.qq.com
 #click_url 聊天窗口左下角文字广告
-0.0.0.0   imc.l.qq.com
-0.0.0.0  adsqqclick.qq.com
+0.0.0.0 imc.l.qq.com
+0.0.0.0 adsqqclick.qq.com
 
 #https://gitee.com/motil/kill-hosts/blob/master/hosts.ini
 #Start-360全家桶系列
