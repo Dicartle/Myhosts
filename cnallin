@@ -298,6 +298,7 @@
 0.0.0.0 www.githubs.cn
 
 #https://github.com/Skimige/AntiMakedingHosts
+#屏蔽苏州思杰马克丁软件公司
 ##Mairuan
 127.0.0.1 mairuanwang.com
 127.0.0.1 www.mairuanwang.com
@@ -318,7 +319,6 @@
 127.0.0.1 makeding.com
 127.0.0.1 www.4009997658.com
 127.0.0.1 4009997658.com
-
 ##Softwares
 ### Abbyy Software
 127.0.0.1 abbyychina.com
