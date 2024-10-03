@@ -208,7 +208,6 @@
 0.0.0.0 bugreportv2.qq.com
 0.0.0.0 ex.qq.com
 0.0.0.0 cgi.connect.qq.com
-
 #屏蔽腾讯广告代码
 0.0.0.0  adslvfile.qq.com
 0.0.0.0  adsfile.qq.com
@@ -228,3 +227,72 @@
 #click_url 聊天窗口左下角文字广告
 0.0.0.0   imc.l.qq.com
 0.0.0.0  adsqqclick.qq.com
+
+#https://gitee.com/motil/kill-hosts/blob/master/hosts.ini
+#Start-360全家桶系列
+127.0.0.1	www.360.com
+127.0.0.1	hao.360.com
+127.0.0.1	www.360.cn
+127.0.0.1	hao360.com
+127.0.0.1	weishi.360.com
+127.0.0.1	down.360.cn
+127.0.0.1	dl.360safe.com
+127.0.0.1	sj.360.cn
+127.0.0.1	browser.360.cn
+127.0.0.1	doctor.browser.360.cn
+#End-360全家桶系列
+#Start-2345全家桶系列
+127.0.0.1	www.2345.com
+127.0.0.1	ie.2345.cc
+127.0.0.1	haozip.2345.com
+127.0.0.1	jifendownload.2345.cn
+127.0.0.1	2345.liulanqi.com.cn
+127.0.0.1	download.2345.cn
+#End-2345全家桶
+127.0.0.1	www.hao123.com
+127.0.0.1	soft.hao123.com
+127.0.0.1	shouji.baidu.com
+127.0.0.1	www.ijinshan.com
+127.0.0.1	www.kingsoft.com
+127.0.0.1	cq.iciba.com
+127.0.0.1	www.iciba.com
+127.0.0.1	www.wps.cn
+127.0.0.1	www.so.com
+127.0.0.1	www.pc6.com
+127.0.0.1	www.cr173.com
+127.0.0.1	zip.taoqiancheng.top
+127.0.0.1	ie.hrbdbwlkj.top
+127.0.0.1	www.51xiazai.cn
+127.0.0.1	site.baidu.com
+127.0.0.1	jgpdf.taoqiancheng.top
+127.0.0.1	pcdb.wxxnhdkj.com
+127.0.0.1	www.3721.com
+127.0.0.1	www.hao214.com
+127.0.0.1	zip.zhanfukeji.cn
+127.0.0.1	pcdb.hrbapjy.cn
+127.0.0.1	ie.chengyi-ad.com.cn
+127.0.0.1	file.cdn.xiangtatech.com
+127.0.0.1	file.cdn.cqttech.com
+127.0.0.1	chrome.wlxb49.cn
+127.0.0.1	ie.hrbdbwlkj.top
+127.0.0.1	chrome.bychaung.cn
+127.0.0.1	www.llqzj.net
+127.0.0.1	cvb.shybstx.com
+127.0.0.1	www.kaka888.com
+127.0.0.1	liulanqi.com.cn
+127.0.0.1	dl.pconline.com.cn
+127.0.0.1	www.pconline.com.cn
+127.0.0.1	jr.emoney.cn
+#Start-屏蔽flash更新bug,如果使用老版本的flash会提示版本不正确无法使用，但更新后仍无法使用，需要删除电脑的所有【Shockwave Flash】文件夹
+127.0.0.1	chrome.bychaung.cn
+127.0.0.1	www.wlxb49.cn
+127.0.0.1	www.uc.cn
+127.0.0.1	www.xsfysoft.com
+127.0.0.1	www.feishu.cn
+#End-屏蔽flash
+127.0.0.1	dh.503118.com
+#20221015 增加毒霸网站
+127.0.0.1	www.91duba.com
+127.0.0.1	www.iduba.com
+#20230719 增加github钓鱼网站
+127.0.0.1	www.githubs.cn
