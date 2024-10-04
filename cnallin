@@ -179,19 +179,20 @@
 #死轮子
 ||*epochtimes*.*^
 ||*ntdtv*.*^
+||*falun*.*^
 ||*falundafa*.*^
 ||*falungong*.*^
 ||*minghui*.*^
-||osu.edu^
-||mhradio.org^
+||*osu*.*^
+||*mhradio*.*^
 ||*renminbao*.*^
 ||*dongtaiwang*.*^
 ||*wujieliulan*.*^
 ||*shenyun*.*^
-||soundofhope.org^
-||ozvoice.org^
-||sohcradio.com^
-||bayvoice.net^
+||*soundofhope*.*^
+||*ozvoice*.*^
+||*sohcradio*.*^
+||*bayvoice*.*^
 
 #https://github.com/easonjim/blackhosts
 #屏蔽腾讯QQ广告代码
