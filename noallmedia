@@ -32,7 +32,7 @@
 ||chinatradenews.com.cn^
 ||ccppg.com.cn^
 ||cqn.com.cn^
-||cnii.com.cn/rmydb^
+||cnii.com.cn^
 ||infomorning.com^
 ||paper.i21st.cn^
 ||bk.cnpharm.com^
@@ -55,7 +55,7 @@
 ||ctaxnews.net.cn^
 ||chinawater.com.cn^
 ||paper.ce.cn^
-||chinasportsdaily.cn/tyb^
+||chinasportsdaily.cn^
 ||titan24.com^
 ||epa.comnews.cn^
 ||epaper.cenews.com.cn^
@@ -86,7 +86,7 @@
 ||news.cn^
 ||cnr.cn^
 ||cankaoxiaoxi.com^
-||zgdsb.cctv.com/paper^
+||zgdsb.cctv.com^
 ||bbtnews.com.cn^
 ||paper.tuanjiewang.cn^
 ||cnenergynews.cn^
@@ -136,10 +136,10 @@
 ||xinminweekly.com.cn^
 ||wxb.whb.cn^
 ||shfzb.cn^
-||yicai.com/epaper^
+||yicai.comr^
 ||shekebao.com.cn^
 ||dfcxb.com^
-||xepaper.com/lhsb^
+||xepaper.com^
 ||citynews.eastday.com^
 ||epaper.shautonews.com^
 ||it-times.com.cn^
@@ -147,7 +147,7 @@
 ||jzsbs.com^
 ||chhospital.com.cn^
 ||anji.ysneo.com^
-||xepaper.com/xptb^
+||xepaper.com^
 ||yptimes.shyp.gov.cn^
 ||hongkouweekly.xinmin.cn^
 ||cmb.shcm.gov.cn^
@@ -174,15 +174,15 @@
 ||epaper.cqrb.cn^
 ||e.chinacqsb.com^
 ||dpaper.sxcm.net^
-||cqqnb.net/ebook^
+||cqqnb.net^
 ||wldsb.com^
 ||cqzxb.itlic.com^
 ||wxb.cqwxnews.net^
-||xepaper.com/lpb^
-||dpaper.sxcm.net/wzsb^
+||xepaper.com^
+||dpaper.sxcm.net^
 ||seres.cn^
 ||ccs.cn^
-||xepaper.com/ycrb^
+||xepaper.com^
 ||ncrb.cqncnews.com^
 ||szb.cqfzb.net^
 ||szb.cqps.gov.cn^
@@ -197,7 +197,7 @@
 ||newspaper.kxzc.cn^
 ||epaper.zzxw.net^
 ||wlrb.cqwulong.cn^
-||cqfd.cn/allMedia^
+||cqfd.cn^
 ||bsszb.bswxw.com^
 ||epaper.cqrc.org.cn^
 ||txdzw.com^
@@ -217,7 +217,7 @@
 #Hebei
 ||hbrb.hebnews.cn^
 ||yzdsb.hebnews.cn^
-||hbgrb.net/epaper^
+||hbgrb.net^
 ||hbfzb.com^
 ||hbjjrb.com^
 ||sjzrb.sjzdaily.com.cn^
@@ -235,7 +235,7 @@
 ||szb.handannews.com.cn^
 ||szb.handannews.com.cn^
 ||paper.hehechengde.cn^
-||xtrb.cn/epaper^
+||xtrb.cn^
 ||lfcmw.com^
 ||lfcmw.com^
 ||zjknews.com^
@@ -262,9 +262,9 @@
 ||banbiantian.org.cn^
 ||epaper.sxrb.com^
 ||shcb.x-publish.com^
-||epaper.dtnews.cn/dtrb^
+||epaper.dtnews.cn^
 ||epaper.zhongtiaoshan.com.cn^
-||paper.jzxww.com.cn/jzrb^
+||paper.jzxww.com.cn^
 ||shuozhounews.cn^
 ||czslzqgbdst.cn^
 ||sxllnews.cn^
@@ -294,7 +294,7 @@
 ||ordosnews.com^
 ||wuhainews.org.cn^
 ||tongliaowang.com^
-||static.0471tv.org.cn/rb^
+||static.0471tv.org.cn^
 ||baotounews.com.cn^
 ||baotounews.com.cn^
 ||szb.hlbrdaily.com.cn^
@@ -323,6 +323,10 @@
 ||0245.net.cn^
 ||0245.net.cn^
 ||newsly.com.cn^
+#Add more
+||lnd.com.cn^
+||syd.com.cn^
+||dlxww.com^
 
 #Jilin
 ||jlrbszb.dajilin.com^
@@ -375,7 +379,7 @@
 ||epaper.sqdaily.com^
 ||sq1996.com^
 ||szb.wxrb.com^
-||szb.wxrb.com/jnwb^
+||szb.wxrb.com^
 ||epaper.ntrb.com.cn^
 ||epaper.ntrb.com.cn^
 ||epaper.cnxz.com.cn^
@@ -383,7 +387,7 @@
 ||subaonet.com^
 ||subaonet.com^
 ||subaonet.com^
-||e0514.com/yzgdb^
+||e0514.com^
 ||digital.dtxww.com^
 ||jskjb.com^
 ||njby.njdaily.cn^
@@ -407,7 +411,7 @@
 ||wlb.intxl.com^
 ||jnxw.yunpaper.cn^
 ||hengli.com^
-||xepaper.com/jjrb^
+||xepaper.com^
 ||epaper.dxscg.com.cn^
 ||xinsushang.xhby.net^
 ||epaper.cz001.com.cn^
@@ -507,7 +511,7 @@
 ||paper.wiseah.com^
 ||anhuinews.com^
 ||hf365.com^
-||szbk.chuzhou.cn/czrb^
+||szbk.chuzhou.cn^
 ||ahjd.gov.cn^
 ||epaper.wjol.net.cn^
 ||hsdaily.cn^
@@ -527,13 +531,13 @@
 #Fujian
 ||fjrb.fjdaily.com^
 ||icn.cn^
-||szb.qzwb.com/dnzb^
+||szb.qzwb.com^
 ||qb.fujian.gov.cn^
 ||mag.fznews.com.cn^
 ||mag.fznews.com.cn^
 ||szb.ptxw.com^
 ||zzxww.com^
-||mxrb.cn/dzb^
+||mxrb.cn^
 ||mbrb.greatwuyi.com^
 ||epaper.ssrb.com.cn^
 ||epaper.xmnn.cn^
@@ -578,7 +582,7 @@
 ||paper.dzcom^
 ||paper.dzcom^
 ||epaper.qlwb.com.cn^
-||bddsb.bandao.cn/pc^
+||bddsb.bandao.cn^
 ||paper.dzcom^
 ||zzrbw.com^
 ||dailyqd.com^
@@ -620,6 +624,8 @@
 ||lcrb.lcxw.cn^
 ||app.lhcom.cn^
 ||qlwb.com.cn^
+#Add more
+||sdchina.com^
 
 #Henan
 ||newpaper.dahe.cn^
@@ -683,7 +689,7 @@
 ||hgdaily.com.cn^
 ||shufabao.net^
 ||sywb.10yan.com^
-||szb.enshi.cn/eswb^
+||szb.enshi.cn^
 ||szrb.sz-news.com.cn^
 ||ctdsbepaper.hubeidaily.net^
 ||syrb.10yan.com^
@@ -756,11 +762,11 @@
 ||nfncb.cn^
 ||epaper.21jingji.com^
 ||ycwb.com^
-||e.hznews.com/hzrb^
+||e.hznews.com^
 ||epaper.xxsb.com^
 ||epaper.sc168.com^
 ||gzdaily.dayoo.com^
-||ep.ycwb.com/epaper^
+||ep.ycwb.com^
 ||epaper.qyrb.com^
 ||sztqb.sznews.com^
 ||jb.sznews.com^
@@ -784,7 +790,7 @@
 ||dahuawang.com^
 ||szdaily.com^
 ||dgtimes.timedg.com^
-||ep.ycwb.com/epaper^
+||ep.ycwb.com^
 ||barb.sznews.com^
 ||epaper.zsnews.cn^
 ||epaper.timedg.com^
@@ -814,7 +820,7 @@
 ||szbk.gxnews.com.cn^
 ||epaper.guilinlife.com^
 ||nnrb.com.cn^
-||fcgsnews.com/szb^
+||fcgsnews.com^
 ||dzb.gxqzxw.com^
 ||szb.wzljl.cn^
 ||gxylnews.com^
@@ -944,7 +950,7 @@
 ||epaper.chinatibetnews.com^
 ||xzsnw.com^
 ||linzhinews.com^
-||e.xzxw.com/fzb^
+||e.xzxw.com^
 
 #Shaanxi
 ||sxlnbs.com^
@@ -997,6 +1003,9 @@
 ||szb.plxww.com^
 ||bygd.cn^
 ||paper.chinajiuquan.com^
+#Add more
+||chinajiuquan.com^
+||gstv.com.cn^
 
 #Qinghai
 ||epaper.tibet3.com^
