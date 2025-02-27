@@ -380,8 +380,8 @@
 ||*dj*.com.cn^
 ||*dj*.gov.cn^
 ||*dj*.cn^
-||*dangjian*.*
-||*dangjian*.*.*
+||*dangjian*.*^
+||*dangjian*.*.*^
 
 ###Directly under
 ||ccdi.gov.cn^
@@ -476,10 +476,10 @@
 ||xjqnpx.com.cn^
 ||tw.xjbt.gov.cn^
 #
-||*gqt.*
-||*gqt.*.*
-||*yl.*
-||*yl.*.*
+||*gqt.*^
+||*gqt.*.*^
+||*yl.*^
+||*yl.*.*^
 
 ###Theory(from http://www.qstheory.cn/v9zhuanqu/resource/llwz/index.htm,https://www.cssn.cn/xsllzydh/zdllwz/)
 ||qstheory.cn^
@@ -552,11 +552,11 @@
 ||marxism.swu.edu.cn^
 ||marx.gznu.edu.cn^
 #
-||*marx*.*
-||*marx*.*.*
-||*marxism*.*
-||*marxism*.*.*
-||*marxism*.*.*.*
+||*marx*.*^
+||*marx*.*.*^
+||*marxism*.*^
+||*marxism*.*.*^
+||*marxism*.*.*.*^
 
 
 ###ICCS Marxist Theory Studies(from https://www.cssn.cn/xsllzydh/myxb/)
@@ -660,5 +660,3 @@
 ||gzdx.gov.cn^
 ||yndx.gov.cn^
 ||dwdx.xjbt.gov.cn^
-
-
