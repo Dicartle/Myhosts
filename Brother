@@ -57,13 +57,18 @@
 ||cctv.com^
 ||peopledaily.com.cn^
 ||china.org.cn^
+||theorychina.org.cn^
+||gongwei.org.cn^
+||cssn.cn^
+||csstoday.com^
 
-#PS
+#PS Media
 ||cpd.com.cn^
 ||zgjs110.cn^
 
 #PS
 ||*ga*.*.gov.cn^
+||*gat*.*.gov.cn^
 ||*gaj*.*.gov.cn^
 
 #State Council
@@ -365,12 +370,12 @@
 ||zytzb.gov.cn^
 ||cac.gov.cn^
 ||npc.gov.cn^
+#国家法律法规数据库
 @@||flk.npc.gov.cn^
 ||cppcc.gov.cn^
 ||rmzxw.com.cn^
 ||court.gov.cn^
 ||spp.gov.cn^
-
 
 ###Province Politics and Law Committee
 ||chinapeace.gov.cn^
@@ -439,11 +444,10 @@
 ||nxgqt.org^
 ||xjqnpx.com.cn^
 ||tw.xjbt.gov.cn^
-||*yl*.*.cn^
-||*gqt*.org.cn^
-||*gqt*.com.cn^
-||*youth*.org.cn^
-||*youth*.com.cn^
-||*youth*.gov.cn^
-||*gqt*.org^
+#
+||*gqt.*
+||*gqt.*.*
+||*yl.*
+||*yl.*.*
+
 
