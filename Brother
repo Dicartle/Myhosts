@@ -64,7 +64,40 @@
 ||cpd.com.cn^
 ||zgjs110.cn^
 
-#PS
+#Provincial PS
+||gaj.beijing.gov.cn^
+||ga.tj.gov.cn^
+||gat.hebei.gov.cn^
+||gat.shanxi.gov.cn^
+||gat.nmg.gov.cn^
+||gat.ln.gov.cn^
+||gat.jl.gov.cn^
+||gat.hlj.gov.cn^
+||gaj.sh.gov.cn^
+||gat.jiangsu.gov.cn^
+||gat.zj.gov.cn^
+||Gat.ah.gov.cn^
+||Gat.fujian.gov.cn^
+||gat.jiangxi.gov.cn^
+||gat.shandong.gov.cn^
+||hnga.henan.gov.cn^
+||gat.hubei.gov.cn^
+||gat.hunan.gov.cn^
+||gdga.gd.gov.cn^
+||gat.gxzf.gov.cn^
+||ga.hainan.gov.cn^
+||gaj.cq.gov.cn^
+||gat.sc.gov.cn^
+||gat.guizhou.gov.cn^
+||gonganting.yn.gov.cn^
+||gat.xizang.gov.cn^
+||gat.shaanxi.gov.cn^
+||gat.gansu.gov.cn^
+||gat.qinghai.gov.cn^
+||gat.nx.gov.cn^
+||gat.xinjiang.gov.cn^
+||btgaj.xjbt.gov.cn^
+#All PS department
 ||*ga*.*.gov.cn^
 ||*gat*.*.gov.cn^
 ||*gaj*.*.gov.cn^
