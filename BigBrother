@@ -1,7 +1,8 @@
-#The Mans
+### The Mans ↙↙↙↙↙
 ||marxists.*
+### END ↖↖↖↖↖
 
-###
+### Big Brothers ↙↙↙↙↙
 ||12371.cn^
 ||hubpd.com^
 ||people.com.cn^
@@ -62,10 +63,12 @@
 ||china.org.cn^
 ||theorychina.org.cn^
 ||gongwei.org.cn^
+### END ↖↖↖↖↖
 
-#PS Media
+### PS Media ↙↙↙↙↙
 ||cpd.com.cn^
 ||zgjs110.cn^
+### END ↖↖↖↖↖
 
 #Provincial PS(fron mps.gov.cn)
 ||gaj.beijing.gov.cn^
@@ -100,12 +103,13 @@
 ||gat.nx.gov.cn^
 ||gat.xinjiang.gov.cn^
 ||btgaj.xjbt.gov.cn^
-#All PS department
+#Wildcard
 ||*ga*.*.gov.cn^
 ||*gat*.*.gov.cn^
 ||*gaj*.*.gov.cn^
+### END ↖↖↖↖↖
 
-#State Council
+### State Council ↙↙↙↙↙
 ||fmprc.gov.cn^
 ||mod.gov.cn^
 ||ndrc.gov.cn^
@@ -184,8 +188,7 @@
 ||119.gov.cn^
 ||safe.gov.cn^
 ||nmpa.gov.cn^
-
-#People`s Congress
+# People`s Congress
 ||bjrd.gov.cn^
 ||tjrd.gov.cn^
 ||hbrd.net^
@@ -217,8 +220,7 @@
 ||qhrd.gov.cn^
 ||nxrd.gov.cn^
 ||xjpcsc.gov.cn^
-
-#CPPCC
+# CPPCC
 ||bjzx.gov.cn^
 ||tjszx.gov.cn^
 ||hebzx.gov.cn^
@@ -265,8 +267,7 @@
 ||.szzx.gov.cn^
 ||zxxm.gov.cn^
 ||nbzx.gov.cn^
-
-#Parties
+# Parties
 ||minge.gov.cn^
 ||dem-league.org.cn^
 ||cndca.org.cn^
@@ -276,15 +277,15 @@
 ||93.gov.cn^
 ||taimeng.org.cn^
 ||acfic.org.cn^
-
-#Another
+# Another
 ||thepaper.cn^
 ||guancha.cn^
 ||xixinews.com^
 ||bjnews.com.cn^
+### END ↖↖↖↖↖
 
-###Province Party
-#old
+### Province Party ↙↙↙↙↙
+# Old
 ||hebdj.gov.cn^
 ||sxdygbjy.com^
 ||lndangjian.org.cn^
@@ -316,7 +317,7 @@
 ||tianjindangjian.gov.cn^
 ||shjgdj.gov.cn^
 ||12371.gov.cn^
-#new
+# New
 ||bjdj.gov.cn^
 ||tjzzb.gov.cn^
 ||hebdj.gov.cn^
@@ -345,11 +346,10 @@
 ||qhsdj.gov.cn^
 ||nxdjw.gov.cn^
 ||xjkunlun.cn^
-#
+# Wildcard
 ||*zz*.gov.cn^
 ||*xf*.gov.cn^
-
-###Province Build
+# Province Build
 ||bjgdjw.gov.cn^
 ||sxjgdj.gov.cn^
 ||lnjgdj.gov.cn^
@@ -379,14 +379,15 @@
 ||dj.xzdw.gov.cn^
 ||nxjgdj.gov.cn^
 ||xjjgdj.org.cn^
-#
+#Wildcard
 ||*dj*.com.cn^
 ||*dj*.gov.cn^
 ||*dj*.cn^
 ||*dangjian*.*^
 ||*dangjian*.*.*^
+### END ↖↖↖↖↖
 
-###Directly under
+### Directly under ↙↙↙↙↙
 ||ccdi.gov.cn^
 ||zytzb.cn^
 ||idcpc.org.cn^
@@ -410,8 +411,9 @@
 ||rmzxw.com.cn^
 ||court.gov.cn^
 ||spp.gov.cn^
+### END ↖↖↖↖↖
 
-###Province Politics and Law Committee
+### Province Politics and Law Committee ↙↙↙↙↙
 ||chinapeace.gov.cn^
 ||pingan.hebei.com.cn^
 ||sxpeace.gov.cn^
@@ -447,8 +449,9 @@
 ||zfw.xjbt.gov.cn^
 ||*zf*.gov.cn^
 ||*zf*.org.cn^
+### END ↖↖↖↖↖
 
-###Province Youth
+### Province Youth ↙↙↙↙↙
 ||ccyl.org.cn^
 ||gqt.org.cn ^
 ||54heb.org.cn^
@@ -478,13 +481,15 @@
 ||nxgqt.org^
 ||xjqnpx.com.cn^
 ||tw.xjbt.gov.cn^
-#
+# Wildcard
 ||*gqt.*^
 ||*gqt.*.*^
 ||*yl.*^
 ||*yl.*.*^
 
-###Theory(from http://www.qstheory.cn/v9zhuanqu/resource/llwz/index.htm,https://www.cssn.cn/xsllzydh/zdllwz/)
+### END ↖↖↖↖↖
+
+### Theory (from http://www.qstheory.cn/v9zhuanqu/resource/llwz/index.htm,https://www.cssn.cn/xsllzydh/zdllwz/) ↙↙↙↙↙
 ||qstheory.cn^
 ||12371.cn^
 ||cntheory.com^
@@ -517,7 +522,9 @@
 ||ll.anhuinews.com^
 ||ll.gansudaily.com.cn^
 
-###Academy of Marxist Theory Studies(from http://www.qstheory.cn/v9zhuanqu/resource/gxzdmy/index.htm,https://www.cssn.cn/xsllzydh/zdmyy/)
+### END ↖↖↖↖↖
+
+### Academy of Marxist Theory Studies(from http://www.qstheory.cn/v9zhuanqu/resource/gxzdmy/index.htm,https://www.cssn.cn/xsllzydh/zdmyy/) ↙↙↙↙↙
 ||marxism.pku.edu.cn^
 ||smarx.tsinghua.edu.cn^
 ||marx.ruc.edu.cn^
@@ -554,23 +561,24 @@
 ||mar.gxnu.edu.cn^
 ||marxism.swu.edu.cn^
 ||marx.gznu.edu.cn^
-#
+# Wildcard
 ||*marx*.*^
 ||*marx*.*.*^
 ||*marxism*.*^
 ||*marxism*.*.*^
 ||*marxism*.*.*.*^
+### END ↖↖↖↖↖
 
-
-###ICCS Marxist Theory Studies(from https://www.cssn.cn/xsllzydh/myxb/)
+### ICCS Marxist Theory Studies(from https://www.cssn.cn/xsllzydh/myxb/) ↙↙↙↙↙
 ||myy.cssn.cn^
 ||nisd.cssn.cn^
 ||iccs.cssn.cn^
 ||iis.cssn.cn^
 ||casses.cssn.cn^
 ||index.cassrio.cn^
+### END ↖↖↖↖↖
 
-###Theoretical Review(from http://www.qstheory.cn/v9zhuanqu/resource/lljg/index.htm)
+### Theoretical Review(from http://www.qstheory.cn/v9zhuanqu/resource/lljg/index.htm) ↙↙↙↙↙
 ||theory.people.com.cn^
 ||opinion.people.com.cn^
 ||xinhuanet.com^
@@ -616,8 +624,9 @@
 ||inews.nmgnews.com.cn^
 ||theory.hebnews.cn^
 ||bhc.hebei.com.cn^
+### END ↖↖↖↖↖
 
-###Leadership Academy(from http://www.qstheory.cn/v9zhuanqu/resource/gbxy/index.htm)
+### Leadership Academy(from http://www.qstheory.cn/v9zhuanqu/resource/gbxy/index.htm) ↙↙↙↙↙
 ||ccps.gov.cn^
 ||celap.org.cn^
 ||celaj.gov.cn^
@@ -629,8 +638,9 @@
 ||cela.cbead.cn^
 ||cbead.cn^
 ||qgzx.gwypx.com.cn^
+### END ↖↖↖↖↖
 
-###Governance Academy(from http://www.qstheory.cn/v9zhuanqu/resource/dxxzxy/index.htm)
+### Governance Academy(from http://www.qstheory.cn/v9zhuanqu/resource/dxxzxy/index.htm) ↙↙↙↙↙
 ||ccps.gov.cn^
 ||bai.gov.cn^
 ||sdx.sh.cn^
@@ -663,3 +673,4 @@
 ||gzdx.gov.cn^
 ||yndx.gov.cn^
 ||dwdx.xjbt.gov.cn^
+### END ↖↖↖↖↖
