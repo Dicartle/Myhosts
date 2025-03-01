@@ -1,4 +1,4 @@
-#上网导航网站
+### 上网导航网站
 ||hao.qq.com^
 ||hao.360.com^
 ||hao123.com^
@@ -12,11 +12,11 @@
 ||duba.com^
 ||jjol.cn^
 
-#网络乞丐
+### 网络乞丐
 ||shuidichou.com^
 ||qschou.com^
 
-#国内流氓软件
+### 国内流氓软件
 ||ludashi.com^
 ||kuaizip.com^
 ||pptv.com^
@@ -31,7 +31,7 @@
 ||laomaotao.net^
 ||liebao.cn^
 
-#国内杀毒软件
+### 国内杀毒软件
 ||ijinshan.com^
 ||jiangmin.com^
 ||rising.com.cn^
@@ -44,7 +44,7 @@
 ||360.com^
 ||360safe.com^
 
-#国内输入法软件
+### 国内输入法软件
 ||xunfei.cn^
 ||shurufa.baidu.com^
 ||pinyin.sogou.com^
@@ -56,8 +56,8 @@
 ||pinyin.2345.cc^
 ||weshineapp.com^
 
-#☆☆☆☆☆ Traditional Chinese Medical ☆☆☆☆☆
-###Gov,Org
+### Traditional Chinese Medical ↙↙↙↙↙
+# Gov,Org
 ||nhc.gov.cn^
 ||natcm.gov.cn^
 ||cacms.ac.cn^
@@ -83,7 +83,7 @@
 ||wfcms.org^
 ||zhsh.org^
 ||wasmq88.com^
-###Education
+# Education
 ||bucm.edu.cn^
 ||shutcm.edu.cn^
 ||njucm.edu.cn^
@@ -104,15 +104,14 @@
 ||hactcm.edu.cn^
 ||gszy.edu.cn^
 ||hnucm.edu.cn^
-#Acedemy
+# Acedemy
 ||sacm.com.cn^
 ||icmm.ac.cn^
 ||hnsacm.com^
 ||yswx.njucm.edu.cn^
 ||bjszyyjs.com^
 ||gicmp.com^
-
-###Web
+# Web
 ||yaolan.com^
 ||ewsos.com^
 ||wujue.com^
@@ -165,14 +164,11 @@
 ||cntcm.com.cn^
 ||tcmmooc.com^
 ||zhzyw.com^
-
-###Wildcard
+#Wildcard
 ||*tcm*.*
 ||*zhongyi*.*
 ||*zhongyao*.*
-
-#★★★★★ END ★★★★★
-
+### END ↖↖↖↖↖
 
 #https://github.com/Skimige/AntiMakedingHosts
 #屏蔽苏州思杰马克丁软件公司
