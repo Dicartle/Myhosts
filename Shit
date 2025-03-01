@@ -164,7 +164,7 @@
 ||cntcm.com.cn^
 ||tcmmooc.com^
 ||zhzyw.com^
-#Wildcard
+# Wildcard
 ||*tcm*.*
 ||*zhongyi*.*
 ||*zhongyao*.*
