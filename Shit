@@ -31,7 +31,6 @@
 ||laomaotao.net^
 ||liebao.cn^
 
-
 ### 国内杀毒软件
 ||ijinshan.com^
 ||jiangmin.com^
@@ -45,7 +44,6 @@
 ||360.com^
 ||360safe.com^
 
-
 ### 国内输入法软件
 ||xunfei.cn^
 ||shurufa.baidu.com^
@@ -58,9 +56,7 @@
 ||pinyin.2345.cc^
 ||weshineapp.com^
 
-
 ### 手机系统广告\追踪器
-
 # 小米 from https://github.com/jerryn70/GoodbyeAds
 0.0.0.0 a.hl.mi.com
 0.0.0.0 a.stat.xiaomi.com
@@ -340,7 +336,6 @@
 0.0.0.0 zeus.ad.xiaomi.com
 0.0.0.0 zhwnlapi.etouch.cn
 0.0.0.0 zx.game.xiaomi.com
-
 # 三星
 0.0.0.0 a460.cell.phone.ringtone.samsung.sms13.de
 0.0.0.0 abtauthprd.samsungcloudsolution.com
@@ -443,7 +438,6 @@
 0.0.0.0 zn6lro0hnnzevxtpz-samsungeurope.siteintercept.qualtrics.com
 0.0.0.0 zn8a1gd8ckeekprrz-samsunggdc.siteintercept.qualtrics.com
 0.0.0.0 zpu.samsungelectronics.com
-
 # 华为 from https://github.com/deep-bhatt/huawei-block-list/tree/master
 0.0.0.0 achievement-dre.things.hicloud.com
 0.0.0.0 adxcreative-dra.dbankcdn.com
@@ -529,9 +523,7 @@
 0.0.0.0 upfile7.hicloud.com
 0.0.0.0 videocontent-dra.himovie.hicloud.com
 
-
 ### Traditional Chinese Medical ↙↙↙↙↙
-
 # Gov,Org
 ||nhc.gov.cn^
 ||natcm.gov.cn^
@@ -558,7 +550,6 @@
 ||wfcms.org^
 ||zhsh.org^
 ||wasmq88.com^
-
 # Education
 ||bucm.edu.cn^
 ||shutcm.edu.cn^
@@ -580,7 +571,6 @@
 ||hactcm.edu.cn^
 ||gszy.edu.cn^
 ||hnucm.edu.cn^
-
 # Acedemy
 ||sacm.com.cn^
 ||icmm.ac.cn^
@@ -588,7 +578,6 @@
 ||yswx.njucm.edu.cn^
 ||bjszyyjs.com^
 ||gicmp.com^
-
 # Web
 ||yaolan.com^
 ||ewsos.com^
@@ -643,19 +632,15 @@
 ||tcmmooc.com^
 ||zhzyw.com^
 ||zyzj.cn^
-
 # Wildcard
 ||*tcm*.*
 ||*zhongyi*.*
 ||*zhongyao*.*
-
 ### END ↖↖↖↖↖
 
-
-### Org(from Bing Search)
+### Buddhi Org(from Bing Search)
 ||chinabuddhism.com.cn^
 ||zgfxy.cn^
-
 
 ### 净土和净空(from Bing Search)
 ||jingzong.org^
@@ -671,7 +656,6 @@
 ||donglin.org^
 ||pureland.info^
 ||yi55.com^
-
 
 ### 佛教网站(from Bing Search)
 ||fjdh.cn^
@@ -706,7 +690,6 @@
 ||4fo.cn^
 ||focha.com.cn^
 ||haichaoyin.cn^
-
 # 佛教网站(from fo123.org)
 ||skamrta.com^
 ||hrfjw.com^
@@ -744,7 +727,6 @@
 ||foyun.com^
 ||fotang.org.cn^
 ||goodweb.net.cn^
-
 # 佛教资讯
 ||fo.sina.com.cn^
 ||fo.ifeng.com^
@@ -757,7 +739,6 @@
 ||foxun.cn^
 ||foshu.com.cn^
 ||foshi.com.cn^
-
 # 佛教影音
 ||music.china777.org^
 ||fojw.cc^
@@ -767,14 +748,12 @@
 ||foqu5.com^
 ||music.jzfjw.cn^
 ||fojiaoyinyue.com.cn^
-
 # 佛教艺术
 ||photobuddha.net^
 ||fohua.cn^
 ||bufo.com.cn^
 ||bufo.com.cn^
 ||focang.cn^
-
 # 佛学院
 ||zgfxy.cn^
 ||zjfxy.net^
@@ -783,7 +762,6 @@
 ||ynfxy.org^
 ||nhfxy.net^
 ||jhsfxy.org^
-
 # 佛教组织
 ||honghuashe.com^
 ||chinabuddhism.com.cn^
@@ -798,18 +776,15 @@
 ||ahfjxh.cn^
 ||fjhnw.com^
 ||sqsfjxh.com^
-
 # 佛教导航
 ||fjdh.cn^
 ||fjdh.org^
 ||fjnet.cc^
 ||fojiao123.com^
 ||ptye.cn^
-
 # 佛教论坛
 ||jgsdf.com^
 ||chinafoyou.com^
-
 # 佛教相关
 ||chancha.net^
 ||focha.com.cn^
@@ -821,7 +796,6 @@
 ||fosss.net^
 ||chinavegan.com^
 ||mifang.org^
-
 # 佛教道场
 ||emsfj.com^
 ||plm.org.cn^
@@ -855,7 +829,6 @@
 ||longyuan.net^
 ||xdsfj.com^
 ||subong.org.hk^
-
 # 港台佛教
 ||tzuchi.org.tw^
 ||ctworld.org.tw^
@@ -873,7 +846,6 @@
 ||fa-in.org^
 ||muni-buddha.com.tw^
 ||lifetv.org.tw^
-
 # 世界佛教
 ||buddhist.org.sg^
 ||amtb.org.sg^
@@ -881,14 +853,10 @@
 ||jingzong.org^
 ||xifangju.com^
 ||drbachinese.org^
-
 # 其他佛教
 ||tbsn.org^
-
 # 以上分类来源于fo123.org)^
-
 ||### END ↖↖↖↖↖^
-
 
 ### 中国佛教寺庙官网(from Bing Search)
 ||lsdls.cn^
@@ -988,12 +956,9 @@
 ||njqls.com^
 ||beishaolin.org.cn^
 ||dafosi.com^
-
 ### END ↖↖↖↖↖
 
-
 ### 所谓国学大师(from Bing Search)
-
 # 倪海厦及相关
 ||nihaixiahope.com^
 ||hantang.com^
@@ -1006,25 +971,20 @@
 ||hantang.teaches.cc^
 ||nihaisha.net^
 ||jh816.com^
-
 # Wildcard
 ||*nihaixia*.*
 ||*nihaisha*.*
 ||*hantang*.*
-
 # 南怀谨
 ||shixiu.net^
 ||nhjcf.org^
 ||nanhuaijin.cn^
 ||nhjce.com^
 ||guoxue.com^
-
 # Wildcard
 ||*nhj*.*
 ||nanhuaijin.*
-
 ### END ↖↖↖↖↖
-
 
 #https://github.com/Skimige/AntiMakedingHosts
 #屏蔽苏州思杰马克丁软件公司
