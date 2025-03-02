@@ -31,6 +31,7 @@
 ||laomaotao.net^
 ||liebao.cn^
 
+
 ### 国内杀毒软件
 ||ijinshan.com^
 ||jiangmin.com^
@@ -44,6 +45,7 @@
 ||360.com^
 ||360safe.com^
 
+
 ### 国内输入法软件
 ||xunfei.cn^
 ||shurufa.baidu.com^
@@ -56,7 +58,480 @@
 ||pinyin.2345.cc^
 ||weshineapp.com^
 
+
+### 手机系统广告\追踪器
+
+# 小米 from https://github.com/jerryn70/GoodbyeAds
+0.0.0.0 a.hl.mi.com
+0.0.0.0 a.stat.xiaomi.com
+0.0.0.0 a.union.mi.com
+0.0.0.0 abtest.mistat.intl.xiaomi.com
+0.0.0.0 abtest.mistat.xiaomi.com
+0.0.0.0 activeqq.3g.qq.com
+0.0.0.0 ad.intl.xiaomi.com
+0.0.0.0 ad.mi.com
+0.0.0.0 ad.xiaomi.com
+0.0.0.0 ad1.xiaomi.com
+0.0.0.0 adfuture.cn
+0.0.0.0 adinfo.ra1.xlmc.sec.miui.com
+0.0.0.0 adsunflower.com
+0.0.0.0 adups.com
+0.0.0.0 adv.sec.intl.miui.com
+0.0.0.0 adv.sec.miui.com
+0.0.0.0 analytics3.starschina.com
+0.0.0.0 api.ad.intl.xiaomi.com
+0.0.0.0 api.ad.xiaomi.com
+0.0.0.0 api.admob.xiaomi.com
+0.0.0.0 api.brs.intl.miui.com
+0.0.0.0 api.chat.xiaomi.net
+0.0.0.0 api.collect.data.intl.miui.com
+0.0.0.0 api.comm.miui.com
+0.0.0.0 api.cupid.ptqy.gitv.tv
+0.0.0.0 api.d.xiaomi.com
+0.0.0.0 api.g.micloud.xiaomi.net
+0.0.0.0 api.hybrid.intl.xiaomi.com
+0.0.0.0 api.jr.mi.com
+0.0.0.0 api.miui.security.xiaomi.com
+0.0.0.0 api.ra2.xlmc.sec.miui.com
+0.0.0.0 api.sec.intl.miui.com
+0.0.0.0 api.sec.miui.com
+0.0.0.0 api.setting.intl.miui.com
+0.0.0.0 api.tuisong.baidu.com
+0.0.0.0 api.tw06.xlmc.sec.miui.com
+0.0.0.0 api.vip.miui.com
+0.0.0.0 app.chat.xiaomi.net
+0.0.0.0 app.migc.xiaomi.com
+0.0.0.0 app01.nodes.gslb.mi-idc.com
+0.0.0.0 app02.nodes.gslb.mi-idc.com
+0.0.0.0 applog.uc.cn
+0.0.0.0 appstore.cdn.pandora.xiaomi.com
+0.0.0.0 appstore.pandora.xiaomi.com
+0.0.0.0 assistant.pandora.xiaomi.com
+0.0.0.0 astat.bugly.qq.com
+0.0.0.0 auth.be.sec.miui.com
+0.0.0.0 authbe.sec.intl.miui.com
+0.0.0.0 awsusor0-cdn.fds-ssl.api.xiaomi.com
+0.0.0.0 b.netcheck.gallery.pandora.xiaomi.com
+0.0.0.0 bbs.game.xiaomi.com
+0.0.0.0 be01.hh.xiaomi.com
+0.0.0.0 beha.ksmobile.com
+0.0.0.0 benteng.ad.xiaomi.com
+0.0.0.0 bgp.fe01.c3.xiaomi.com
+0.0.0.0 bigdata.adfuture.cn
+0.0.0.0 bigdata.adsunflower.com
+0.0.0.0 bigdata.adups.com
+0.0.0.0 bigdata.advmob.cn
+0.0.0.0 bk01.hh.xiaomi.com
+0.0.0.0 blog.xiaomi.com
+0.0.0.0 bss.pandora.xiaomi.com
+0.0.0.0 c.id.mi.com
+0.0.0.0 calopenupdate.comm.miui.com
+0.0.0.0 cc.sys.intl.xiaomi.com
+0.0.0.0 cc.sys.miui.com
+0.0.0.0 ccc.sys.intl.xiaomi.com
+0.0.0.0 ccc.sys.miui.com
+0.0.0.0 cdn.ad.xiaomi.com
+0.0.0.0 cdn.fds-ssl.api.xiaomi.com
+0.0.0.0 clock.ad.xiaomi.com
+0.0.0.0 cm.adkmob.com
+0.0.0.0 cm066.getui.igexin.com
+0.0.0.0 cnc.fe01.lg.xiaomi.com
+0.0.0.0 config.kuyun.com
+0.0.0.0 contactapi.micloud.xiaomi.net
+0.0.0.0 controller.intl.xiaomi.com
+0.0.0.0 ctc.fe01.c3.xiaomi.com
+0.0.0.0 ctc.fe02.c3.xiaomi.com
+0.0.0.0 d.g.mi.com
+0.0.0.0 d.xiaomi.com
+0.0.0.0 data-mistat-india-xiaomi-com-1248219176.ap-south-1.elb.amazonaws.com
+0.0.0.0 data.game.xiaomi.com
+0.0.0.0 data.mistat.india.xiaomi.com
+0.0.0.0 data.mistat.intl.xiaomi.com
+0.0.0.0 data.mistat.rus.xiaomi.com
+0.0.0.0 data.mistat.xiaomi.com
+0.0.0.0 data.sec.intl.miui.com
+0.0.0.0 data.sec.miui.com
+0.0.0.0 de.pandora.xiaomi.com
+0.0.0.0 diagnosis.ad.xiaomi.com
+0.0.0.0 dvb.pandora.xiaomi.com
+0.0.0.0 e.ad.xiaomi.com
+0.0.0.0 etl.xlmc.sec.miui.comm
+0.0.0.0 f1.g.mi.com
+0.0.0.0 f4.market.xiaomi.com
+0.0.0.0 fcanr.tracking.miui.com
+0.0.0.0 fclick.baidu.com
+0.0.0.0 fe02.lg.xiaomi.com
+0.0.0.0 fe05.lg.xiaomi.com
+0.0.0.0 flash.sec.intl.miui.com
+0.0.0.0 folder.adfuture.cn
+0.0.0.0 folder.adsunflower.com
+0.0.0.0 folder.advmob.cn
+0.0.0.0 fota4.adups.cn
+0.0.0.0 fotacontrol.adfuture.cn
+0.0.0.0 g.cn.miaozhen.com
+0.0.0.0 gallery.cdn.pandora.xiaomi.com
+0.0.0.0 gallery.pandora.xiaomi.com
+0.0.0.0 game.xiaomi.com
+0.0.0.0 geofence.sys.miui.com
+0.0.0.0 global.search.xiaomi.net
+0.0.0.0 globalapi.ad.xiaomi.com
+0.0.0.0 gvod.aiseejapp.atianqi.com
+0.0.0.0 hd.xiaomi.com
+0.0.0.0 hd02.lg.xiaomi.com
+0.0.0.0 heyue.xiaomi.com
+0.0.0.0 hk.mibi.xiaomi.com
+0.0.0.0 hm.xiaomi.com
+0.0.0.0 huodong.xiaomi.com
+0.0.0.0 huosai.xiaomi.com
+0.0.0.0 i.xiaomi.com
+0.0.0.0 igame.xiaomi.com
+0.0.0.0 image.box.xiaomi.com
+0.0.0.0 image.cdn.mvideo.xiaomi.com
+0.0.0.0 image.pandora.xiaomi.com
+0.0.0.0 ime.api.xiaomi.com
+0.0.0.0 imgg.traffic-media.co
+0.0.0.0 in.o2o.api.xiaomi.com
+0.0.0.0 info.analysis.kp.sec.miui.com
+0.0.0.0 info.sec.miui.com
+0.0.0.0 iosdl.game.xiaomi.com
+0.0.0.0 jellyfish.pandora.xiaomi.com
+0.0.0.0 lbs.pandora.xiaomi.com
+0.0.0.0 lg-bgp.pandora.xiaomi.com
+0.0.0.0 log.ad.xiaomi.com
+0.0.0.0 log.pandora.xiaomi.com
+0.0.0.0 login.game.xiaomi.com
+0.0.0.0 logonext.tv.kuyun.com
+0.0.0.0 logupdate.avlyun.sec.miui.com
+0.0.0.0 lxcdn.dl.files.xiaomi.net
+0.0.0.0 m.bss.pandora.xiaomi.com
+0.0.0.0 m.irs01.com
+0.0.0.0 m.sjzhushou.com
+0.0.0.0 m.track.ad.xiaomi.com
+0.0.0.0 masdk.3g.qq.com
+0.0.0.0 max.ad.xiaomi.com
+0.0.0.0 mazu.3g.qq.com
+0.0.0.0 mazu.sec.miui.com
+0.0.0.0 mcc.intl.inf.miui.com
+0.0.0.0 mdap.alipaylog.com
+0.0.0.0 meihua.xiaomi.com
+0.0.0.0 metok.sys.miui.com
+0.0.0.0 mibi.api.xiaomi.com
+0.0.0.0 mibi.xiaomi.com
+0.0.0.0 micardapi.micloud.xiaomi.net
+0.0.0.0 migc.g.mi.com
+0.0.0.0 migcreport.g.mi.com
+0.0.0.0 migrate.driveapi.micloud.xiaomi.net
+0.0.0.0 milink.pandora.xiaomi.com
+0.0.0.0 mini.cpc.sogou.com
+0.0.0.0 mis.g.mi.com
+0.0.0.0 mis.migc.xiaomi.com
+0.0.0.0 mishop.cdn.pandora.xiaomi.com
+0.0.0.0 mishop.pandora.xiaomi.com
+0.0.0.0 mitunes.game.xiaomi.com
+0.0.0.0 mitv.tracking.intl.miui.com
+0.0.0.0 mlog.search.xiaomi.net
+0.0.0.0 mp.huangye.miui.com
+0.0.0.0 new.api.ad.xiaomi.com
+0.0.0.0 notice.game.xiaomi.com
+0.0.0.0 nsclick.baidu.com
+0.0.0.0 o.data.mistat.xiaomi.com
+0.0.0.0 o2o.api.xiaomi.com
+0.0.0.0 order.music.xiaomi.com
+0.0.0.0 p.alimama.com
+0.0.0.0 pdc.micloud.xiaomi.net
+0.0.0.0 phonecallapi.micloud.xiaomi.net
+0.0.0.0 pmall.migc.xiaomi.com
+0.0.0.0 pmir.3g.qq.com
+0.0.0.0 ppurifier.game.xiaomi.com
+0.0.0.0 proxy.sec.miui.com
+0.0.0.0 ptmi.gitv.pandora.xiaomi.com
+0.0.0.0 qiye.xiaomi.com
+0.0.0.0 r.browser.miui.com
+0.0.0.0 r.sg.sec.miui.com
+0.0.0.0 report.adview.cn
+0.0.0.0 resolver.gslb.mi-idc.com
+0.0.0.0 resolver.msg.xiaomi.net
+0.0.0.0 sa.api.intl.miui.com
+0.0.0.0 sa.tuisong.baidu.com
+0.0.0.0 sa3.tuisong.baidu.com
+0.0.0.0 sdk.open.phone.igexin.com
+0.0.0.0 sdk.open.talk.gepush.com
+0.0.0.0 sdk.open.talk.igexin.com
+0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 sdkconfig.ad.xiaomi.com
+0.0.0.0 sec-cdn.static.xiaomi.net
+0.0.0.0 sec.resource.xiaomi.net
+0.0.0.0 secode2.hd.xiaomi.com
+0.0.0.0 security.browser.miui.com
+0.0.0.0 sfsapi.micloud.xiaomi.net
+0.0.0.0 sg.a.stat.mi.com
+0.0.0.0 sgp.o2o.api.xiaomi.com
+0.0.0.0 shenghuo.xiaomi.com
+0.0.0.0 shoes.app-xae.xiaomi.com
+0.0.0.0 shouji.sougou.com
+0.0.0.0 sousuo.xm.sjzhushou.com
+0.0.0.0 ssdk.adkmob.com
+0.0.0.0 ssl-cdn.static.browser.mi-img.com
+0.0.0.0 ssp.ad.xiaomi.com
+0.0.0.0 sstc.ngrok.xiaomiqiu.cn
+0.0.0.0 staging.admin.e.mi.com
+0.0.0.0 staging.ai.api.xiaomi.com
+0.0.0.0 starfish.pandora.xiaomi.com
+0.0.0.0 stat.pandora.xiaomi.com
+0.0.0.0 stat.xiaomi.com
+0.0.0.0 static.game.xiaomi.com
+0.0.0.0 static.mibi.xiaomi.com
+0.0.0.0 stats.xiaomi.com
+0.0.0.0 storeconfig.mistat.intl.xiaomi.com
+0.0.0.0 t.track.ad.xiaomi.com
+0.0.0.0 t1.a.market.xiaomi.com
+0.0.0.0 t1.g.mi.com
+0.0.0.0 t2.a.market.xiaomi.com
+0.0.0.0 t3.a.market.xiaomi.com
+0.0.0.0 t4.a.market.xiaomi.com
+0.0.0.0 t5.a.market.xiaomi.com
+0.0.0.0 tc.hd.xiaomi.com
+0.0.0.0 tel.fe01.hh.xiaomi.com
+0.0.0.0 test.ad.xiaomi.com
+0.0.0.0 test.api.xlmc.sandai.net
+0.0.0.0 test.e.ad.xiaomi.com
+0.0.0.0 test.log.ad.xiaomi.com
+0.0.0.0 test.new.api.ad.xiaomi.com
+0.0.0.0 test.xiaomi.com
+0.0.0.0 test.zeus.ad.xiaomi.com
+0.0.0.0 tools.3g.qq.com
+0.0.0.0 track.ad.xiaomi.com
+0.0.0.0 tracking.india.miui.com
+0.0.0.0 tracking.intl.miui.com
+0.0.0.0 tracking.miui.com
+0.0.0.0 tracking.rus.miui.com
+0.0.0.0 trial.api.huangye.miui.com
+0.0.0.0 tv.app.migc.xiaomi.com
+0.0.0.0 tw13b093.sandai.net
+0.0.0.0 union.dbba.cn
+0.0.0.0 update.avlyun.sec.miui.com
+0.0.0.0 upgrade.mishop.pandora.xiaomi.com
+0.0.0.0 url8807.global.passport.xiaomi.com
+0.0.0.0 userid.xiaomi.com
+0.0.0.0 v2.fm.n.duokanbox.com
+0.0.0.0 v2.reachmax.cn
+0.0.0.0 video.market.xiaomi.com
+0.0.0.0 video.xiaomi.com
+0.0.0.0 voip.game.xiaomi.com
+0.0.0.0 wallpaper.cdn.pandora.xiaomi.com
+0.0.0.0 wallpaper.pandora.xiaomi.com
+0.0.0.0 wap.game.xiaomi.com
+0.0.0.0 watchdog.goodbyeads
+0.0.0.0 watchdog.goodbyeads.xiaomi
+0.0.0.0 weather.pandora.xiaomi.com
+0.0.0.0 weatherapi.market.xioami.com
+0.0.0.0 wtradv.market.xiaomi.com
+0.0.0.0 www.adview.cn
+0.0.0.0 www.api.ad.intl.xiaomi.com
+0.0.0.0 xiaomi-mipdx.cn.miaozhen.com
+0.0.0.0 xiaomi.m.cn.miaozhen.com
+0.0.0.0 xiaomiir.yaokantv.com
+0.0.0.0 xiazai.xiaomi.com
+0.0.0.0 xitong.xiaomi.com
+0.0.0.0 xlmc.sec.miui.com
+0.0.0.0 xshare.api.xiaomi.com
+0.0.0.0 yun.rili.cn
+0.0.0.0 zeus.ad.intl.xiaomi.com
+0.0.0.0 zeus.ad.xiaomi.com
+0.0.0.0 zhwnlapi.etouch.cn
+0.0.0.0 zx.game.xiaomi.com
+
+# 三星
+0.0.0.0 a460.cell.phone.ringtone.samsung.sms13.de
+0.0.0.0 abtauthprd.samsungcloudsolution.com
+0.0.0.0 acr0.samsungcloudsolution.com
+0.0.0.0 ad.samsungadhub.com
+0.0.0.0 ad.samsungads.com
+0.0.0.0 ads.samsungads.com
+0.0.0.0 akcjasamsung.e-kei.pl
+0.0.0.0 amauthprd.samsungcloudsolution.com
+0.0.0.0 analytics-api.samsunghealthcn.com
+0.0.0.0 analytics.samsungknox.com
+0.0.0.0 api-hub.samsungyosemite.com
+0.0.0.0 apu.samsungelectronics.com
+0.0.0.0 az43064.vo.msecnd.net
+0.0.0.0 bigdata.ssp.samsung.com
+0.0.0.0 bpu.samsungelectronics.com
+0.0.0.0 config.samsungads.com
+0.0.0.0 connecttv.pelmorex.com
+0.0.0.0 coordinator-production-28516768.us-east-1.elb.amazonaws.com
+0.0.0.0 cpu.samsungelectronics.com
+0.0.0.0 d179kwmlpc4o47.cloudfront.net
+0.0.0.0 d1oxlq5h9kq8q5.cloudfront.net
+0.0.0.0 d2tnx644ijgq6i.cloudfront.net
+0.0.0.0 d3mjsomixevyw7.cloudfront.net
+0.0.0.0 events.samsungads.com
+0.0.0.0 fkp.samsungcloudsolution.com
+0.0.0.0 fkp.samsungcloudsolution.net
+0.0.0.0 game.internetat.tv
+0.0.0.0 gld.samsungosp.com
+0.0.0.0 gpm.samsungqbe.com
+0.0.0.0 infolink.pavv.co.kr
+0.0.0.0 insights.samsung.com
+0.0.0.0 invitation.samsungiotcloud.com
+0.0.0.0 kpu.samsungelectronics.com
+0.0.0.0 lcprd1.samsungcloudsolution.net
+0.0.0.0 lcprd2.samsungcloudsolution.net
+0.0.0.0 lockersamsungs8.r.xoxknct.com
+0.0.0.0 lockersamsungs8.s.xoxknct.com
+0.0.0.0 log-1.samsungacr.com
+0.0.0.0 log-2.samsungacr.com
+0.0.0.0 log-3.samsungacr.com
+0.0.0.0 log-4.adclerks.com
+0.0.0.0 log-config.samsungacr.com
+0.0.0.0 log-ingestion-eu.samsungacr.com
+0.0.0.0 log-ingestion.samsungacr.com
+0.0.0.0 log.internetat.tv
+0.0.0.0 musicid.samsungcloudsolution.com
+0.0.0.0 nmetrics.samsung.com
+0.0.0.0 noticecdn.samsungcloudsolution.com
+0.0.0.0 noticefile.samsungcloudsolution.com
+0.0.0.0 ns11.whois.co.kr
+0.0.0.0 oempprd.samsungcloudsolution.com
+0.0.0.0 openapi.samsung.com
+0.0.0.0 osb-krsvc.samsungqbe.com
+0.0.0.0 osb-ussvc.samsungqbe.com
+0.0.0.0 osb.samsungqbe.com
+0.0.0.0 otn.samsungcloudcdn.com
+0.0.0.0 pipeaota.com
+0.0.0.0 premium-videos.telly.com
+0.0.0.0 rd.samsungadhub.com
+0.0.0.0 s.w-x.co
+0.0.0.0 s3-config.samsungacr.com
+0.0.0.0 samsung-akcja.e-kei.pl
+0.0.0.0 samsung-com.112.2o7.net
+0.0.0.0 samsung-germany.demdex.net
+0.0.0.0 samsung-klimatyzacja.pl
+0.0.0.0 samsung-produkcja.24.eu
+0.0.0.0 samsung-stop.24.eu
+0.0.0.0 samsung.24.eu
+0.0.0.0 samsung.apps.linkpc.net
+0.0.0.0 samsung.demdex.net
+0.0.0.0 samsung.yaload.ru
+0.0.0.0 samsung3.solution.weborama.fr
+0.0.0.0 samsungacr.com
+0.0.0.0 samsungadhub.com
+0.0.0.0 samsungads.com
+0.0.0.0 samsungeurope.eu.qualtrics.com
+0.0.0.0 samsungindiaelectronics.demdex.net
+0.0.0.0 samsungmsc.d1.sc.omtrdc.net
+0.0.0.0 samsungtvads.com
+0.0.0.0 samsungus.btttag.com
+0.0.0.0 sca.samsung.com
+0.0.0.0 smetrics.samsung.com
+0.0.0.0 sso.internetat.tv
+0.0.0.0 syncplusconfig.s3.amazonaws.com
+0.0.0.0 t.email1.samsung.ca
+0.0.0.0 targeted-config-test.samsungacr.com
+0.0.0.0 test.samsungrm.net
+0.0.0.0 upu.samsungelectronics.com
+0.0.0.0 vd.contents.prod.eu.s3.amazonaws.com
+0.0.0.0 vd.emp.prd.s3.amazonaws.com
+0.0.0.0 vdterms.samsungcloudsolution.com
+0.0.0.0 www.akcja-samsung.h2g.pl
+0.0.0.0 www.akcjasamsung.e-kei.pl
+0.0.0.0 www.samsungotn.net
+0.0.0.0 www.samsungrm.net
+0.0.0.0 xpu.samsungelectronics.com
+0.0.0.0 ypu.samsungelectronics.com
+0.0.0.0 zn3xeosihqjqivq8l-samsungeurope.siteintercept.qualtrics.com
+0.0.0.0 zn6lro0hnnzevxtpz-samsungeurope.siteintercept.qualtrics.com
+0.0.0.0 zn8a1gd8ckeekprrz-samsunggdc.siteintercept.qualtrics.com
+0.0.0.0 zpu.samsungelectronics.com
+
+# 华为 from https://github.com/deep-bhatt/huawei-block-list/tree/master
+0.0.0.0 achievement-dre.things.hicloud.com
+0.0.0.0 adxcreative-dra.dbankcdn.com
+0.0.0.0 adx-dre.op.hicloud.com
+0.0.0.0 adx-dre-op-hicloud-com-dre.appacc.dbankedge.net
+0.0.0.0 adx-dre.op.hicloud.com.edgekey.net
+0.0.0.0 api.cloud.hicloud.com
+0.0.0.0 api.cloud.huawei.com
+0.0.0.0 api-dra.music.hicloud.com
+0.0.0.0 cdn.hinative.com
+0.0.0.0 communityfile-drcn.op.hicloud.com
+0.0.0.0 configdownload-dra.dbankcdn.com
+0.0.0.0 configserver-dra.platform.hicloud.com
+0.0.0.0 configserver-dre.platform.hicloud.com
+0.0.0.0 consumer-tkbdownload.huawei.com
+0.0.0.0 coupon-dra.iap.hicloud.com
+0.0.0.0 cs02-pps-drcn.dbankcdn.com.c.cdnhwc1.com
+0.0.0.0 cs02-pps-drcn.dbankcdn.com.cdn.dnsv1.com
+0.0.0.0 dnkeeper.hicloud.com
+0.0.0.0 dsa-sslv6.hispace.hicloud.com.edgekey.net
+0.0.0.0 eu.mclean.50union.com
+0.0.0.0 eu.mvconf.50union.com
+0.0.0.0 events-dra.op.hicloud.com
+0.0.0.0 events-dre.op.hicloud.com
+0.0.0.0 gra.hicloud.com
+0.0.0.0 grs.dbankcloud.asia
+0.0.0.0 grs.dbankcloud.cn
+0.0.0.0 grs.dbankcloud.com
+0.0.0.0 grs-dbankcloud-com-dre.appacc.dbankedge.net
+0.0.0.0 grs-dbankcloud.com-dre.appacc.dbankedge.net
+0.0.0.0 grs-dbankcloud-com-dre.appacc-region.dbankedge.net
+0.0.0.0 grs-dbankcloud.com-dre.appacc-region.dbankedge.net
+0.0.0.0 grs.dbankcloud.eu
+0.0.0.0 hag-dre.ai.hicloud.com
+0.0.0.0 healthactivity-dre.things.hicloud.com
+0.0.0.0 healthdeviceagent-dre.things.hicloud.com
+0.0.0.0 hinative.com
+0.0.0.0 huaweihigame.com
+0.0.0.0 hwid-dra.platform.hicloud.com
+0.0.0.0 hwid-dre.platform.hicloud.com
+0.0.0.0 hwid.platform.hicloud.com
+0.0.0.0 id1.cloud.huawei.com
+0.0.0.0 id2.cloud.huawei.com
+0.0.0.0 id3.cloud.huawei.com
+0.0.0.0 id4.cloud.huawei.com
+0.0.0.0 id5.cloud.huawei.com
+0.0.0.0 id6.cloud.huawei.com
+0.0.0.0 id7.cloud.huawei.com
+0.0.0.0 id.cloud.huawei.com
+0.0.0.0 id-dre.dbankcdn.com
+0.0.0.0 logbak.hicloud.com
+0.0.0.0 logservice1.hicloud.com
+0.0.0.0 metrics1.data.hicloud.com
+0.0.0.0 metrics2.data.hicloud.com
+0.0.0.0 metrics3.data.hicloud.com
+0.0.0.0 metrics4.data.hicloud.com
+0.0.0.0 metrics5.data.hicloud.com
+0.0.0.0 metrics.data.hicloud.com
+0.0.0.0 metrics-dra.dt.hicloud.com
+0.0.0.0 pay5.hicloud.com
+0.0.0.0 pushtrs6.push.hicloud.com
+0.0.0.0 pushtrs7.push.hicloud.com
+0.0.0.0 rms-dre.platform.dbankcloud.com
+0.0.0.0 rms-dre-platform-dbankcloud-com-dre.appacc.dbankedge.net
+0.0.0.0 rms-dre-platform-dbankcloud.com-dre.appacc.dbankedge.net
+0.0.0.0 rms-dre-platform-dbankcloud-com-dre.appacc-region.dbankedge.net
+0.0.0.0 rms-dre-platform-dbankcloud.com-dre.appacc-region.dbankedge.net
+0.0.0.0 sdkserver-dra.op.hicloud.com
+0.0.0.0 sdkserver-dre.op.hicloud.com
+0.0.0.0 security-captcha-dre.platform.hicloud.com
+0.0.0.0 sns7.hicloud.com
+0.0.0.0 sp-8f237ea3.honzik.avcdn.net
+0.0.0.0 sp-8f237ea3.vps-v4.u.acvdn.net
+0.0.0.0 sportsuggest-dre.things.hicloud.com
+0.0.0.0 store.hispace.hicloud.com
+0.0.0.0 theme-dra.emui.hicloud.com
+0.0.0.0 tsms-dre.platform.dbankcloud.com
+0.0.0.0 tsms-dre-platform-dbankcloud-com-dre.appacc.dbankedge.net
+0.0.0.0 tsms-dre-platform-dbankcloud.com-dre.appacc.dbankedge.net
+0.0.0.0 tsms-dre-platform-dbankcloud-com-dre.appacc-region.dbankedge.net
+0.0.0.0 tsms-dre-platform-dbankcloud.com-dre.appacc-region.dbankedge.net
+0.0.0.0 upfile5.hicloud.com
+0.0.0.0 upfile7.hicloud.com
+0.0.0.0 videocontent-dra.himovie.hicloud.com
+
+
 ### Traditional Chinese Medical ↙↙↙↙↙
+
 # Gov,Org
 ||nhc.gov.cn^
 ||natcm.gov.cn^
@@ -83,6 +558,7 @@
 ||wfcms.org^
 ||zhsh.org^
 ||wasmq88.com^
+
 # Education
 ||bucm.edu.cn^
 ||shutcm.edu.cn^
@@ -104,6 +580,7 @@
 ||hactcm.edu.cn^
 ||gszy.edu.cn^
 ||hnucm.edu.cn^
+
 # Acedemy
 ||sacm.com.cn^
 ||icmm.ac.cn^
@@ -111,6 +588,7 @@
 ||yswx.njucm.edu.cn^
 ||bjszyyjs.com^
 ||gicmp.com^
+
 # Web
 ||yaolan.com^
 ||ewsos.com^
@@ -165,15 +643,19 @@
 ||tcmmooc.com^
 ||zhzyw.com^
 ||zyzj.cn^
+
 # Wildcard
 ||*tcm*.*
 ||*zhongyi*.*
 ||*zhongyao*.*
+
 ### END ↖↖↖↖↖
+
 
 ### Org(from Bing Search)
 ||chinabuddhism.com.cn^
 ||zgfxy.cn^
+
 
 ### 净土和净空(from Bing Search)
 ||jingzong.org^
@@ -189,6 +671,7 @@
 ||donglin.org^
 ||pureland.info^
 ||yi55.com^
+
 
 ### 佛教网站(from Bing Search)
 ||fjdh.cn^
@@ -223,6 +706,7 @@
 ||4fo.cn^
 ||focha.com.cn^
 ||haichaoyin.cn^
+
 # 佛教网站(from fo123.org)
 ||skamrta.com^
 ||hrfjw.com^
@@ -260,6 +744,7 @@
 ||foyun.com^
 ||fotang.org.cn^
 ||goodweb.net.cn^
+
 # 佛教资讯
 ||fo.sina.com.cn^
 ||fo.ifeng.com^
@@ -272,6 +757,7 @@
 ||foxun.cn^
 ||foshu.com.cn^
 ||foshi.com.cn^
+
 # 佛教影音
 ||music.china777.org^
 ||fojw.cc^
@@ -281,12 +767,14 @@
 ||foqu5.com^
 ||music.jzfjw.cn^
 ||fojiaoyinyue.com.cn^
+
 # 佛教艺术
 ||photobuddha.net^
 ||fohua.cn^
 ||bufo.com.cn^
 ||bufo.com.cn^
 ||focang.cn^
+
 # 佛学院
 ||zgfxy.cn^
 ||zjfxy.net^
@@ -295,6 +783,7 @@
 ||ynfxy.org^
 ||nhfxy.net^
 ||jhsfxy.org^
+
 # 佛教组织
 ||honghuashe.com^
 ||chinabuddhism.com.cn^
@@ -309,15 +798,18 @@
 ||ahfjxh.cn^
 ||fjhnw.com^
 ||sqsfjxh.com^
+
 # 佛教导航
 ||fjdh.cn^
 ||fjdh.org^
 ||fjnet.cc^
 ||fojiao123.com^
 ||ptye.cn^
+
 # 佛教论坛
 ||jgsdf.com^
 ||chinafoyou.com^
+
 # 佛教相关
 ||chancha.net^
 ||focha.com.cn^
@@ -329,6 +821,7 @@
 ||fosss.net^
 ||chinavegan.com^
 ||mifang.org^
+
 # 佛教道场
 ||emsfj.com^
 ||plm.org.cn^
@@ -362,6 +855,7 @@
 ||longyuan.net^
 ||xdsfj.com^
 ||subong.org.hk^
+
 # 港台佛教
 ||tzuchi.org.tw^
 ||ctworld.org.tw^
@@ -379,6 +873,7 @@
 ||fa-in.org^
 ||muni-buddha.com.tw^
 ||lifetv.org.tw^
+
 # 世界佛教
 ||buddhist.org.sg^
 ||amtb.org.sg^
@@ -386,10 +881,14 @@
 ||jingzong.org^
 ||xifangju.com^
 ||drbachinese.org^
+
 # 其他佛教
 ||tbsn.org^
+
 # 以上分类来源于fo123.org)^
+
 ||### END ↖↖↖↖↖^
+
 
 ### 中国佛教寺庙官网(from Bing Search)
 ||lsdls.cn^
@@ -489,9 +988,12 @@
 ||njqls.com^
 ||beishaolin.org.cn^
 ||dafosi.com^
+
 ### END ↖↖↖↖↖
 
+
 ### 所谓国学大师(from Bing Search)
+
 # 倪海厦及相关
 ||nihaixiahope.com^
 ||hantang.com^
@@ -504,20 +1006,25 @@
 ||hantang.teaches.cc^
 ||nihaisha.net^
 ||jh816.com^
+
 # Wildcard
 ||*nihaixia*.*
 ||*nihaisha*.*
 ||*hantang*.*
+
 # 南怀谨
 ||shixiu.net^
 ||nhjcf.org^
 ||nanhuaijin.cn^
 ||nhjce.com^
 ||guoxue.com^
+
 # Wildcard
 ||*nhj*.*
 ||nanhuaijin.*
+
 ### END ↖↖↖↖↖
+
 
 #https://github.com/Skimige/AntiMakedingHosts
 #屏蔽苏州思杰马克丁软件公司
